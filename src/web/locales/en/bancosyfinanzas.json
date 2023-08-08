@@ -1,0 +1,37 @@
+{
+  "HEADER": {
+    "TITLE": "<0> Improve customer experience <1/> </0> in and out of offices. <2/>"
+  },
+  "MARKET": {
+    "TITLE": "Today's banking customers won't settle for just <1 /> <2> anything. <1/> </2>",
+    "CAPTION_1": {
+      "TITLE": "They want to interact",
+      "SUBTITLE": "when, where and how they like."
+    },
+    "CAPTION_2": {
+      "TITLE": "They need",
+      "SUBTITLE": "fast and effective responses."
+    },
+    "CAPTION_3": {
+      "TITLE": "They would switch banks",
+      "SUBTITLE": "if they got a more efficient experience."
+    }
+  },
+  "SOLUTIONS": {
+    "TITLE": "<b> Give your customers the attention </b> <br /> they deserve",
+    "CAPTION_1": {
+      "TITLE": "Integrate service channels <br />",
+      "SUBTITLE": "and offer an omnichannel service"
+    },
+    "CAPTION_2": {
+      "TITLE": "Optimize processes",
+      "SUBTITLE": "with data and make serving more efficient"
+    },
+    "CAPTION_3": {
+      "TITLE": "Improve their experience",
+      "SUBTITLE": "at every interaction point"
+    },
+    "ORGANIZATIONS": "<b> Leading organizations </b> rely <br /> on Debmedia's solutions. <b> </b> <br />",
+    "SOLUTIONS": "Apply Debmedia <b> solutions </b> to personalize every interaction <br /> point <b> between banks and customers. </b>"
+  }
+}

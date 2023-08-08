@@ -1,0 +1,66 @@
+{
+  "HEADER": {
+    "TITLE": "Gerencie o fluxo de clientes da sua empresa",
+    "SUBTITLE": "<b> Software de gestão de agendas </b> para empresas com múltiplas operações e tipos de clientes",
+    "CAPTION": "<b> Empresas líderes </b> de mercado, já <br /> gerenciam a experiência de seus <b> clientes </b> com Debmedia"
+  },
+  "MARKET": {
+    "TITLE": "Muitas organizações administram seus <br /> processos de atendimento de forma desordenada.",
+    "CAPTION_1": {
+      "TITLE": "Falta de conhecimento",
+      "SUBTITLE": "dos clientes e de suas necessidades."
+    },
+    "CAPTION_2": {
+      "TITLE": "Falta de informação",
+      "SUBTITLE": "para alocar o número certo de executivos."
+    },
+    "CAPTION_3": {
+      "TITLE": "Longas esperas",
+      "SUBTITLE": "e péssima experiência do cliente."
+    }
+  },
+  "MODERN": {
+    "TITLE": "Múltiplas funcionalidades",
+    "SUBTITLE": "para otimizar os modelos de atendimento ao cliente.",
+    "CAPTION_1": {
+      "TITLE": "Integração com o sistema de gestão de filas.",
+      "SUBTITLE": "Para controlar todo o fluxo com algoritmos de chamada e priorização."
+    },
+    "CAPTION_2": {
+      "TITLE": "Check-in autogerenciado.",
+      "SUBTITLE": "Os clientes podem fazer o check-in a partir de seu celular ou no totem."
+    },
+    "CAPTION_3": {
+      "TITLE": "Lembretes personalizáveis enviados por e-mail ou SMS.",
+      "SUBTITLE": "Desenvolvidos como campos dinâmicos em função do tipo de operação e cliente."
+    },
+    "CAPTION_4": {
+      "TITLE": "Conectado com múltiplas operações ou agendas.",
+      "SUBTITLE": "Para definir tempos de tolerância para cada."
+    },
+    "CAPTION_5": {
+      "TITLE": "Integração via API, iframe ou incorporado em seu site.",
+      "SUBTITLE": "Com o look & feel de sua empresa."
+    },
+    "CAPTION_6": {
+      "TITLE": "Um sistema integrado com",
+      "SUBTITLE": "Outlook e Google Calendar."
+    }
+  },
+  "STEPS": {
+    "TITLE": "<b> Organize o fluxo de suas sucursais </b>",
+    "SUBTITLE": "<b> Permita que seus clientes agendem </b> turnos on-line a partir da web.",
+    "CAPTION_1": {
+      "TITLE": "Antecipe e saiba <br /> quais clientes irão visitá-lo",
+      "SUBTITLE": "Ofereça uma experiência personalizada e aumente a sua satisfação."
+    },
+    "CAPTION_2": {
+      "TITLE": "Saiba quantos <br /> recursos você precisa.",
+      "SUBTITLE": "Melhore o processo de chegada dos <br /> clientes a suas sucursais."
+    },
+    "CAPTION_3": {
+      "TITLE": "Evite esperas <br /> desnecessárias.",
+      "SUBTITLE": "Reduza o tempo que seus clientes passam dentro de suas sucursais."
+    }
+  }
+}

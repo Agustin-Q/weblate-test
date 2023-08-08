@@ -1,0 +1,72 @@
+{
+  "FLOW": {
+    "TITLE": "<b> Create customer </b> <br /> satisfaction surveys in a few easy steps",
+    "CAPTION_1": {
+      "TITLE": "Create",
+      "SUBTITLE": "the survey"
+    },
+    "CAPTION_2": {
+      "TITLE": "Associate",
+      "SUBTITLE": "the service"
+    },
+    "CAPTION_3": {
+      "TITLE": "Choose the action",
+      "SUBTITLE": "that triggers the sending."
+    }
+  },
+  "HEADER": {
+    "TITLE": "Know what your customers think and how your team is performing",
+    "SUBTITLE": "Customer feedback <b> software within </b> the service flow",
+    "CAPTION": "<b> Leading organizations </b> already manage their <br /> customer experience with Debmedia <b> </b>"
+  },
+  "MARKET": {
+    "TITLE": "You may be losing customers because of poor service",
+    "CAPTION_1": {
+      "TITLE": "False metrics",
+      "SUBTITLE": "about customer satisfaction <br />"
+    },
+    "CAPTION_2": {
+      "TITLE": "Wrong decisions",
+      "SUBTITLE": "due to lack of data"
+    },
+    "CAPTION_3": {
+      "TITLE": "Lack of <br /> knowledge",
+      "SUBTITLE": "of employee performance"
+    }
+  },
+  "MODERN": {
+    "TITLE": "<b> Increase the response rate with </b> <br /> satisfaction surveys up to 10 times more.",
+    "CAPTION_1": {
+      "TITLE": "Customize different <br /> surveys",
+      "SUBTITLE": "for each type of service."
+    },
+    "CAPTION_2": {
+      "TITLE": "Send surveys",
+      "SUBTITLE": "at different points in the customer journey."
+    },
+    "CAPTION_3": {
+      "TITLE": "Compare results",
+      "SUBTITLE": "by time period, user, service and more."
+    }
+  },
+  "OPINION": {
+    "TITLE": "A system developed <br /> <b> to know the customer </b> <br /> feedback through",
+    "SUBTITLE": "It <b> allows you to associate </b> the result of <br /> <b> each survey to the </b> <br /> <b> worker and </b> service."
+  },
+  "STEPS": {
+    "TITLE": "<b> Receive feedback from your customers </b> <br /> at the end of their journey and increase satisfaction.",
+    "CAPTION_1": {
+      "TITLE": "Know the real opinion",
+      "SUBTITLE": "of what your customers perceive."
+    },
+    "CAPTION_2": {
+      "TITLE": "Make better decisions",
+      "SUBTITLE": "based on data"
+    },
+    "CAPTION_3": {
+      "TITLE": "Measure the performance",
+      "SUBTITLE": "of your teams’ work"
+    },
+    "SUBTITLE": "<b> Send different </b> <br /> types of surveys"
+  }
+}

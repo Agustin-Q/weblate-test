@@ -1,0 +1,37 @@
+{
+  "HEADER": {
+    "TITLE": "<0>Mejora la experiencia<1 /> de los pacientes</0> dentro<2 /> de los centros de atención."
+  },
+  "MARKET": {
+    "TITLE": "Los pacientes actuales<br /><b>ya no toleran un proceso de atención ineficiente</b>",
+    "CAPTION_1": {
+      "TITLE": "Altos costos en",
+      "SUBTITLE": "procesos manuales."
+    },
+    "CAPTION_2": {
+      "TITLE": "Experiencias frustrantes",
+      "SUBTITLE": "para los pacientes."
+    },
+    "CAPTION_3": {
+      "TITLE": "Desconocimiento de",
+      "SUBTITLE": "la performance de los profesionales."
+    }
+  },
+  "SOLUTIONS": {
+    "TITLE": "<b> Ofrece a tus pacientes </b> <br />la atención que se merecen",
+    "CAPTION_1": {
+      "TITLE": "Procesos digitalizados",
+      "SUBTITLE": "que mejoran su experiencia."
+    },
+    "CAPTION_2": {
+      "TITLE": "Flujos adaptados",
+      "SUBTITLE": "a las necesidades que tienen."
+    },
+    "CAPTION_3": {
+      "TITLE": "Métricas de performance",
+      "SUBTITLE": "para conocer el rendimiento."
+    },
+    "ORGANIZATION_TITLE": "<0> Organizaciones líderes</0> confían<2 /> en las soluciones de<4> Debmedia</4> <5 />",
+    "SOLUTIONS_TITLE": "Soluciones de<b> Debmedia </b>para clínicas, <br/>laboratorios y farmacias"
+  }
+}

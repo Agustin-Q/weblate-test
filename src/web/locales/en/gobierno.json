@@ -1,0 +1,37 @@
+{
+  "HEADER": {
+    "TITLE": "<0> Improve citizen experience <1/> </0> in and out of offices <2/>"
+  },
+  "MARKET": {
+    "TITLE": "Today's citizens do not <br /> <b> tolerate inefficient processes. </b>",
+    "CAPTION_1": {
+      "TITLE": "Long queues",
+      "SUBTITLE": "and waits"
+    },
+    "CAPTION_2": {
+      "TITLE": "Inefficient",
+      "SUBTITLE": "manual processes"
+    },
+    "CAPTION_3": {
+      "TITLE": "Image",
+      "SUBTITLE": "damaging complaints"
+    }
+  },
+  "SOLUTIONS": {
+    "TITLE": "<b> Give them the </b> <br /> service they deserve.",
+    "CAPTION_1": {
+      "TITLE": "Integrate channels <br />",
+      "SUBTITLE": "and offer your services."
+    },
+    "CAPTION_2": {
+      "TITLE": "Optimize processes",
+      "SUBTITLE": "with data and make serving more efficient."
+    },
+    "CAPTION_3": {
+      "TITLE": "Improve",
+      "SUBTITLE": "response times."
+    },
+    "SUBTITLE": "<0> Numerous organizations rely </0> <1/> on our software. <3/> <5/>",
+    "FEATURES_TITLE": "Debmedia solutions <b> customize </b> interaction points in government offices. <br />"
+  }
+}

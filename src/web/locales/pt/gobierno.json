@@ -1,0 +1,37 @@
+{
+  "HEADER": {
+    "TITLE": "<0> Melhore a experiência <1/> do cidadãos dentro </0> e fora <2/> dos órgãos públicos"
+  },
+  "MARKET": {
+    "TITLE": "Os cidadãos de hoje <br /> <b> não toleram mais processos </b> ineficientes.",
+    "CAPTION_1": {
+      "TITLE": "Longas filas",
+      "SUBTITLE": "e esperas"
+    },
+    "CAPTION_2": {
+      "TITLE": "Processos manuais",
+      "SUBTITLE": "ineficientes"
+    },
+    "CAPTION_3": {
+      "TITLE": "Reclamações prejudiciais",
+      "SUBTITLE": "à imagem da empresa"
+    }
+  },
+  "SOLUTIONS": {
+    "TITLE": "<b> Ofereça a seus </b> <br /> clientes a atenção que eles merecem",
+    "CAPTION_1": {
+      "TITLE": "Integre canais <br />",
+      "SUBTITLE": "e ofereça serviços ao cliente."
+    },
+    "CAPTION_2": {
+      "TITLE": "Otimize os processos",
+      "SUBTITLE": "com dados e agilize o serviço."
+    },
+    "CAPTION_3": {
+      "TITLE": "Melhore os tempos",
+      "SUBTITLE": "de resposta."
+    },
+    "SUBTITLE": "<0> Organizações em todo </0> <1/> o mundo já <3/> confiam em <5/> nossa plataforma.",
+    "FEATURES_TITLE": "Atendimento virtual <b> para </b> escritórios governamentais <br />"
+  }
+}

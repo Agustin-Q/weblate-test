@@ -1,0 +1,39 @@
+{
+  "HEADER": {
+    "TITLE": "Centralize a comunicação dos visores em suas sucursais.",
+    "SUBTITLE": "Sistema de <b> Sinalização Digital </b>",
+    "CAPTION": "<b> Empresas líderes </b> de mercado, já <br /> gerenciam a experiência de seus <b> clientes </b> com Debmedia"
+  },
+  "MARKET": {
+    "TITLE": "Sem as ferramentas adequadas,",
+    "SUBTITLE": "você pode não estar comunicando corretamente suas mensagens.",
+    "CAPTION_1": {
+      "TITLE": "Mensagens <br /> desatualizadas",
+      "SUBTITLE": "em sucursais."
+    },
+    "CAPTION_2": {
+      "TITLE": "Uso de componentes <br /> nocivos",
+      "SUBTITLE": "ao meio ambiente."
+    },
+    "CAPTION_3": {
+      "TITLE": "Imagem de marca <br /> desatualizada",
+      "SUBTITLE": "que não chama a atenção."
+    }
+  },
+  "STEPS": {
+    "TITLE": "<b> Modernize a maneira de se comunicar em suas </b> filiais.",
+    "CAPTION_1": {
+      "TITLE": "Ajuste seu conteúdo <br /> em tempo real.",
+      "SUBTITLE": "Com mensagens adaptadas ao <br /> momento em que sua organização está vivendo."
+    },
+    "CAPTION_2": {
+      "TITLE": "Transforme os recursos. <br />",
+      "SUBTITLE": "Use componentes amigáveis que respeitem o planeta."
+    },
+    "CAPTION_3": {
+      "TITLE": "Gere conteúdo dinâmico <br /> e atraente para os clientes.",
+      "SUBTITLE": "Ganhe visibilidade e tenha influência nas decisões de compra."
+    },
+    "SUBTITLE": "<b> Defina a Jornada e melhore </b> <br /> o atendimento ao seu cliente."
+  }
+}

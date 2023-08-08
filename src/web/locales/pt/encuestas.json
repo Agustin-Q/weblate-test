@@ -1,0 +1,72 @@
+{
+  "FLOW": {
+    "TITLE": "<b> Crie pesquisas </b> <br /> de satisfação em poucos passos",
+    "CAPTION_1": {
+      "TITLE": "Crie",
+      "SUBTITLE": "a pesquisa"
+    },
+    "CAPTION_2": {
+      "TITLE": "Associe",
+      "SUBTITLE": "o processo"
+    },
+    "CAPTION_3": {
+      "TITLE": "Escolha",
+      "SUBTITLE": "a ação que desencadeia o envio."
+    }
+  },
+  "HEADER": {
+    "TITLE": "Conheça a opinião real de seus clientes a respeito do seu serviço.",
+    "SUBTITLE": "Sistema de <b> pesquisas automatizadas </b> dentro do fluxo de serviço de atendimento ao cliente",
+    "CAPTION": "<b> Empresas líderes </b> de mercado, já <br /> gerenciam a experiência de seus <b> clientes </b> com Debmedia"
+  },
+  "MARKET": {
+    "TITLE": "Você pode estar perdendo clientes devido à falta de um serviço de qualidade.",
+    "CAPTION_1": {
+      "TITLE": "Falsas métricas",
+      "SUBTITLE": "sobre a satisfação <br /> do cliente"
+    },
+    "CAPTION_2": {
+      "TITLE": "Decisões equivocadas",
+      "SUBTITLE": "devido à falta de dados"
+    },
+    "CAPTION_3": {
+      "TITLE": "Desconhecimento da <br /> performance",
+      "SUBTITLE": "dos colaboradores"
+    }
+  },
+  "MODERN": {
+    "TITLE": "<b> Aumente a taxa de resposta </b> <br /> das pesquisas de satisfação em até 10 vezes mais.",
+    "CAPTION_1": {
+      "TITLE": "Personalize pesquisas <br /> diferentes",
+      "SUBTITLE": "para cada tipo de operação."
+    },
+    "CAPTION_2": {
+      "TITLE": "Envie pesquisas",
+      "SUBTITLE": "em diferentes pontos da jornada do cliente."
+    },
+    "CAPTION_3": {
+      "TITLE": "Compare resultados",
+      "SUBTITLE": "por período de tempo, usuário, atendimento e muito mais."
+    }
+  },
+  "OPINION": {
+    "TITLE": "Um sistema desenvolvido <br /> <b> para obter feedback através </b> <br /> de",
+    "SUBTITLE": "Que <b> permite que o resultado </b> de cada pesquisa <br /> <b> seja associado ao usuário </b> <br /> <b> e ao </b> processo de serviço."
+  },
+  "STEPS": {
+    "TITLE": "<b> Receba feedback de seus clientes </b> <br /> ao final do atendimento e aumente a sua <br /> <br /> satisfação.",
+    "CAPTION_1": {
+      "TITLE": "Conheça a opinião real",
+      "SUBTITLE": "de seus clientes a respeito do seu serviço."
+    },
+    "CAPTION_2": {
+      "TITLE": "Tome melhores decisões",
+      "SUBTITLE": "com base em dados"
+    },
+    "CAPTION_3": {
+      "TITLE": "Conheça a performance",
+      "SUBTITLE": "de sua equipe"
+    },
+    "SUBTITLE": "<b> Envie diferentes </b> <br /> tipos de pesquisa"
+  }
+}

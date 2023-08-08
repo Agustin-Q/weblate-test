@@ -1,0 +1,62 @@
+{
+  "HEADER": {
+    "TITLE": "Agilize o atendimento a partir do WhatsApp ou de um portal web",
+    "CAPTION": "<b> Organizações líderes já fazem a <br /> gestão da experiência do cliente <b> com Debmedia"
+  },
+  "FLOW": {
+    "TITLE": "<b>Otimize o atendimento ao cliente</b> com o portal de pré-atendimento",
+    "PILL_1": "<b>Personaliza</b> os botões",
+    "PILL_2": "<b>Design com aparência</b> da sua empresa",
+    "PILL_3": "Permite uso de <b>imagens</b>",
+    "PILL_4": "<b>Cria o fluxo</b> que seus clientes precisam recorrer",
+    "PILL_5": "<b>Adiciona descrições</b> em cada botão para melhorar a experiência"
+  },
+  "MARKET": {
+    "TITLE": "As dificuldade em direcionar os clientes para <br /> o canal certo resultam em",
+    "CAPTION_1": {
+      "TITLE": "Processos humanos",
+      "SUBTITLE": "mais onerosos para sua organização."
+    },
+    "CAPTION_2": {
+      "TITLE": "Processos complexos",
+      "SUBTITLE": "de atendimento ao cliente."
+    },
+    "CAPTION_3": {
+      "TITLE": "Demora no atendimento",
+      "SUBTITLE": "ao cliente."
+    }
+  },
+  "MODERN": {
+    "TITLE": "O que você pode fazer com o pré-vendedor?",
+    "CAPTION_1": {
+      "TITLE": "Incluir <br/><span> pop-ups / imagenes</span>"
+    },
+    "CAPTION_2": {
+      "TITLE": "Adicionar<br/> <span> Formulários</span>"
+    },
+    "CAPTION_3": {
+      "TITLE": "Integre com",
+      "SUBTITLE": "Integre com sua base de dados."
+    }
+  },
+  "STEPS": {
+    "TITLE": "<b> Direcione seus clientes com </b> mais rapidez <br /> para o canal adequado.",
+    "CAPTION_1": {
+      "TITLE": "Automatize os processos",
+      "SUBTITLE": "e reduza custos."
+    },
+    "CAPTION_2": {
+      "TITLE": "Simplifique a jornada",
+      "SUBTITLE": "do seu cliente."
+    },
+    "CAPTION_3": {
+      "TITLE": "Melhore os tempos",
+      "SUBTITLE": "de resposta e acelere <br /> o atendimento ao cliente."
+    },
+    "PILL_1": "Permite que seus clientes efetuaem <b>agendamento online</b>",
+    "PILL_2": "Permite que seus clientes acompanhem a <b>fila pelo WhatsApp</b>",
+    "PILL_3": "Envia mensagens para <b>recordar os clientes</b>",
+    "PILL_4": "<b>Automatize a resposta</b> de duvidas recorrentes",
+    "CAPTION": "<b> Direcione seus clientes através do WhatsApp para que </b> eles possam escolher o canal de serviço mais adequado."
+  }
+}

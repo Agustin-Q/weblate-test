@@ -1,0 +1,50 @@
+{
+  "HEADER": {
+    "TITLE": "Digitaliza la atención de tus clientes",
+    "CAPTION": "<b> Organizaciones líderes </b> ya gestionan la experiencia de sus clientes con <b> Debmedia </b>",
+    "SUBTITLE": "Software para brindar <b> atención por videollamada </b>"
+  },
+  "MARKET": {
+    "TITLE": "<b> Optimiza la Atención al Cliente </b> <br /> Mediante Videollamadas.",
+    "CAPTION_1": "<strong> Valora su tiempo </strong> Ofrece una atención <br /> ágil y eficiente",
+    "CAPTION_2": "<strong> Humaniza la atención </strong> A través de encuentros <br /> especializados y cercanos.",
+    "CAPTION_3": "<strong> Diferénciate de <br /> la competencia </strong> Consigue una ventaja <br /> tecnológica."
+  },
+  "FLOW": {
+    "TITLE": "<b> Un flujo sencillo pensado para distintos <br /> modelos de atención en tu organización. </b>",
+    "CAPTION": "Tus clientes pueden tomar una cita o un turno desde tu web para <b> conectarse con un representante por videollamada. </b>",
+    "BLOCK_1": {
+      "TITLE": "Utiliza el sistema de Atención Virtual también dentro de las sucursales.",
+      "CAPTION": "<b> Tus clientes pueden conectarse a una videollamada con un representante desde un Kiosko </b> y reducir el tiempo que pasan dentro de las sucursales."
+    },
+    "BLOCK_2": {
+      "TITLE": "Aprovecha tus <br /> recursos al máximo.",
+      "CAPTION": "Permite a tus colaboradores atender a los clientes desde cualquier lugar."
+    }
+  },
+  "SPEC": {
+    "TITLE": "¿Cómo funciona el Sistema <br /> de <b> Atención Virtual de Debmedia </b> ?",
+    "MOBILE": {
+      "TITLE": "Diferentes funcionalidades",
+      "SUBTITLE": "para optimizar tu<br /> modelo de atención"
+    },
+    "CAPTIONS": {
+      "0": {
+        "TITLE": "Múltiples viajes <br /> del cliente",
+        "SUBTITLE": "Tus clientes pueden iniciar en tu web, App o WhatsApp."
+      },
+      "1": {
+        "TITLE": "Métricas de performance",
+        "SUBTITLE": "Mide tiempos y rendimiento <br /> de tus equipos."
+      },
+      "2": {
+        "TITLE": "Integración <br /> sencilla",
+        "SUBTITLE": "Una herramienta integrable por API o Iframe"
+      },
+      "3": {
+        "TITLE": "Los clientes pueden",
+        "SUBTITLE": "Conectarse de forma espontánea o programada."
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "HEADER": {
+    "TITLE": "Digitalize seu serviço de atendimento ao cliente",
+    "CAPTION": "<b> Empresas líderes </b> de mercado, já gerenciam a experiência de seus clientes com <b>Debmedia</b>",
+    "SUBTITLE": "Software para oferecer <b> atendimento ao cliente por videochamada </b>"
+  },
+  "MARKET": {
+    "TITLE": "<b> Otimize o serviço de atendimento </b> <br /> ao cliente utilizando videochamadas.",
+    "CAPTION_1": "<strong> Valorize o tempo </strong> do seu cliente ofereça um <br/> atendimento ágil e eficiente.",
+    "CAPTION_2": "<strong> Humanize o atendimento </strong> e crie experiências memoráveis <br/> para seus clientes.",
+    "CAPTION_3": "<strong>Obtenha vantagens</strong> tecnológicas e se diferencie da concorrência"
+  },
+  "FLOW": {
+    "TITLE": "<b> Um fluxo simples desenhado para diferentes <br /> modelos de serviço de atendimento na </b> sua organização.",
+    "CAPTION": "Seus clientes podem agendar o atendimento a partir do seu website para <b>falar com um representante por videochamada. </b>",
+    "BLOCK_1": {
+      "TITLE": "Utilize o sistema de Atendimento Virtual também em suas filiais.",
+      "CAPTION": "<b> Os seus clientes podem conectar-se a uma videochamada com um representante a partir de um totem </b> e reduzir o tempo que passam dentro do estabelecimento físico."
+    },
+    "BLOCK_2": {
+      "TITLE": "Aproveite ao <br /> máximo os seus recursos.",
+      "CAPTION": "Permita que os seus colaboradores atendam aos clientes de qualquer lugar."
+    }
+  },
+  "SPEC": {
+    "TITLE": "Como funciona o Sistema <br /> de <b> Videchamada da Debmedia? </b>",
+    "MOBILE": {
+      "TITLE": "Diferentes funcionalidades",
+      "SUBTITLE": "para otimizar seu modelo de atendimento"
+    },
+    "CAPTIONS": {
+      "0": {
+        "TITLE": "Múltiplas jornadas <br /> de clientes",
+        "SUBTITLE": "Os clientes podem iniciar o atendimento através do seu site, App ou WhatsApp."
+      },
+      "1": {
+        "TITLE": "Métricas de performance",
+        "SUBTITLE": "Monitore o desempenho da sua equipe."
+      },
+      "2": {
+        "TITLE": "Integração <br /> simples",
+        "SUBTITLE": "Nossa solução pode ser facilmente integrada via API ou Iframe."
+      },
+      "3": {
+        "TITLE": "Os clientes <br /> podem",
+        "SUBTITLE": "entrar em contato de forma espontânea ou programada"
+      }
+    }
+  }
+}

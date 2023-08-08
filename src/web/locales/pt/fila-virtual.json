@@ -1,0 +1,60 @@
+{
+  "HEADER": {
+    "TITLE": "Permita seus clientes acompanharem seu lugar na fila através do smartphone",
+    "SUBTITLE": "Sistema de <b> fila virtual </b>",
+    "CAPTION": "<b> Empresas líderes </b> de mercado, já <br /> gerenciam a experiência de seus <b> clientes </b> com Debmedia"
+  },
+  "MARKET": {
+    "TITLE": "As esperas desnecessárias dentro das sucursais",
+    "SUBTITLE": "geram uma má experiência.",
+    "CAPTION_1": {
+      "TITLE": "Aglomeração",
+      "SUBTITLE": "dentro das instalações."
+    },
+    "CAPTION_2": {
+      "TITLE": "Clientes com incerteza",
+      "SUBTITLE": "quanto ao tempo de espera de atendimento."
+    },
+    "CAPTION_3": {
+      "TITLE": "Altas taxas de abandono",
+      "SUBTITLE": "de clientes insatisfeitos."
+    }
+  },
+  "MODERN": {
+    "TITLE": "<b> Agilize os tempos de espera </b> <br /> em suas sucursais.",
+    "CAPTION_1": {
+      "TITLE": "Integração com chatbot",
+      "SUBTITLE": "O cliente pode entrar e <br /> acompanhar a fila pelo WhatsApp."
+    },
+    "CAPTION_2": {
+      "TITLE": "Integração via API ou Iframe",
+      "SUBTITLE": "A um aplicativo ou website disponível na internet."
+    },
+    "CAPTION_3": {
+      "TITLE": "Configuração da operação",
+      "SUBTITLE": "Para selecionar quais clientes podem entrar pela fila virtual."
+    },
+    "CAPTION_4": {
+      "TITLE": "Look and feel personalizados",
+      "SUBTITLE": "Para manter a identidade da organização."
+    }
+  },
+  "STEPS": {
+    "TITLE": "<b> Permita que seus clientes utilizem <br /> seu tempo </b> como preferirem.",
+    "CAPTION_1": {
+      "TITLE": "Controle o fluxo <br /> nas salas de espera",
+      "SUBTITLE": "e reduza o fluxo desnecessário <br /> de clientes."
+    },
+    "CAPTION_2": {
+      "TITLE": "Permita que os clientes <br /> acompanhem o seu turno",
+      "SUBTITLE": "e sejam chamados via SMS ou WhatsApp."
+    },
+    "CAPTION_3": {
+      "TITLE": "Deixe-os aproveitar ao <br /> máximo seu tempo",
+      "SUBTITLE": "e voltar a tempo para serem atendidos."
+    }
+  },
+  "CHANNELS": {
+    "TITLE": "<b> Permita que seus clientes </b> <br /> agendem horários de atendimento <br /> <b> a partir </b> de diferentes canais."
+  }
+}

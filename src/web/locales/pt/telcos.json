@@ -1,0 +1,37 @@
+{
+  "HEADER": {
+    "TITLE": "<b> Melhore a experiência</b><b> do cliente </b> presencial e virtual <br />"
+  },
+  "MARKET": {
+    "TITLE": "Os clientes de <br /> <b> hoje não se contentam mais com </b> qualquer coisa.",
+    "CAPTION_1": {
+      "TITLE": "Modelos de <br /> atendimento",
+      "SUBTITLE": "obsoletos"
+    },
+    "CAPTION_2": {
+      "TITLE": "Dificuldade em direcionar",
+      "SUBTITLE": "os clientes para o canal <br /> de interação correto"
+    },
+    "CAPTION_3": {
+      "TITLE": "A maioria dos clientes trocariam de marca",
+      "SUBTITLE": "para receber uma experiência mais consistente."
+    }
+  },
+  "SOLUTIONS": {
+    "TITLE": "<b> Adapte sua empresa </b> <br /> a novos modelos",
+    "CAPTION_1": {
+      "TITLE": "Integre os canais de serviço",
+      "SUBTITLE": "e ofereça um serviço omnichannel."
+    },
+    "CAPTION_2": {
+      "TITLE": "Otimize os processos com dados",
+      "SUBTITLE": "e agilize o atendimento ao cliente."
+    },
+    "CAPTION_3": {
+      "TITLE": "Melhore a experiência",
+      "SUBTITLE": "no atendimento e fidelize seus clientes."
+    },
+    "ORGANIZATION_TITLE": "<0> Empresas líderes de </0> <1 /> mercado, já gerenciam <3 /> a experiência <5 /> de seus clientes com Debmedia",
+    "SOLUTIONS_TITLE": "Soluções <b>Debmedia</b> para telecomunicações"
+  }
+}

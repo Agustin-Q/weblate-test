@@ -1,0 +1,39 @@
+{
+  "HEADER": {
+    "TITLE": "Centraliza la <br /> comunicación de <br /> las pantallas en tus <br /> sucursales.",
+    "SUBTITLE": "Sistema de <b> cartelería digital </b>",
+    "CAPTION": "<b> Organizaciones líderes </b> ya gestionan la <br /> experiencia de sus clientes con <b> Debmedia </b>"
+  },
+  "MARKET": {
+    "TITLE": "Sin las herramientas adecuadas",
+    "SUBTITLE": "puede que no estés comunicando mensajes correctos",
+    "CAPTION_1": {
+      "TITLE": "Mensajes <br /> desactualizados",
+      "SUBTITLE": "en sucursales."
+    },
+    "CAPTION_2": {
+      "TITLE": "Uso de componentes <br /> perjudiciales",
+      "SUBTITLE": "para el medioambiente."
+    },
+    "CAPTION_3": {
+      "TITLE": "Imagen de marca <br /> anticuada",
+      "SUBTITLE": "que no atrae la atención."
+    }
+  },
+  "STEPS": {
+    "TITLE": "<b> Moderniza la forma de comunicación en tus sucursales </b>",
+    "CAPTION_1": {
+      "TITLE": "Ajusta tu contenido <br /> en tiempo real.",
+      "SUBTITLE": "Con mensajes adaptados al <br /> momento que vive tu organización."
+    },
+    "CAPTION_2": {
+      "TITLE": "Transforma los recursos. <br />",
+      "SUBTITLE": "Utiliza componentes amigables para el planeta."
+    },
+    "CAPTION_3": {
+      "TITLE": "Genera contenido dinámico <br /> y atractivo para los clientes.",
+      "SUBTITLE": "Gana visibilidad en influye en decisiones de compra."
+    },
+    "SUBTITLE": "<b> Define el Customer Journey y </b> <br /> mejora la atención."
+  }
+}

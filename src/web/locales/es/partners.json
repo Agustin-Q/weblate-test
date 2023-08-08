@@ -1,0 +1,32 @@
+{
+  "HEADER": {
+    "TITLE": "Amplía los servicios <br /> de tu empresa.",
+    "SUBTITLE": "Conviértete en un <b> Debmedia </b> <br /> <b> Partner </b> y agrega más valor a <br /> tus clientes.",
+    "BUTTON": "Quiero ser partner"
+  },
+  "MARKET": {
+    "TITLE": "<b> Ayuda a tus clientes a </b>",
+    "CAPTION_1": "<b> Mejorar la </b> <br /> <b> atención y la </b> <br /> <b> experiencia </b> de sus <br /> clientes.",
+    "CAPTION_2": "<b> Optimizar sus </b> <br /> <b> procesos </b> y <br /> hacerlos más <br /> eficientes.",
+    "CAPTION_3": "<b> Unificar sus </b> <br /> <b> canales </b> <br /> virtuales y <br /> presenciales."
+  },
+  "MODERN": {
+    "CAPTION_1": "Múltiples funcionalidades",
+    "CAPTION_2": "para optimizar modelos de atención",
+    "CAPTION_3": "Integración con el sistema <br /> de gestión de filas.",
+    "CAPTION_4": "Para gestionar todo el flujo <br /> con algoritmos de llamado <br /> y priorización.",
+    "CAPTION_5": "Check in <br /> autogestionado.",
+    "CAPTION_6": "Los clientes pueden registrarse desde su móvil o en el kiosko.",
+    "CAPTION_7": "Recordatorios <br /> personalizables enviados <br /> por mail o SMS. <br />",
+    "CAPTION_8": "Diseñados como campos dinámicos en función del támite y el cliente.",
+    "CAPTION_9": "Conectado con múltiples <br /> trámites o agendas.",
+    "CAPTION_10": "Para definir tiempos de <br /> tolerancia por cada uno.",
+    "CAPTION_11": "Integrable por API, iframe <br /> o embebido en tu web",
+    "CAPTION_12": "Con el look &amp; feel <br /> de tu compañía.",
+    "CAPTION_13": "Un sistema integrado a",
+    "CAPTION_14": "Outlook y Google Calendar."
+  },
+  "STEPS": {
+    "TITLE": "Cómo ser un <br /> <span> Debmedia Partner: </span>"
+  }
+}

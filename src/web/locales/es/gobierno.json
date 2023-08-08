@@ -1,0 +1,37 @@
+{
+  "HEADER": {
+    "TITLE": "<0> Mejora la experiencia <1/> de los ciudadanos </0> dentro y <2/> fuera de las sucursales"
+  },
+  "MARKET": {
+    "TITLE": "Los ciudadanos de hoy <br /> <b> no toleran procesos ineficientes </b>",
+    "CAPTION_1": {
+      "TITLE": "Largas filas",
+      "SUBTITLE": "y esperas"
+    },
+    "CAPTION_2": {
+      "TITLE": "Procesos manuales",
+      "SUBTITLE": "ineficientes"
+    },
+    "CAPTION_3": {
+      "TITLE": "Quejas que",
+      "SUBTITLE": "dañan la imagen"
+    }
+  },
+  "SOLUTIONS": {
+    "TITLE": "<b> Ofréceles la atención </b> <br /> que se merecen",
+    "CAPTION_1": {
+      "TITLE": "Integra los canales <br />",
+      "SUBTITLE": "y ofrece una atención."
+    },
+    "CAPTION_2": {
+      "TITLE": "Optimiza los procesos",
+      "SUBTITLE": "con datos y agiliza la atención"
+    },
+    "CAPTION_3": {
+      "TITLE": "Mejora los tiempos",
+      "SUBTITLE": "de respuesta."
+    },
+    "SUBTITLE": "<0> Trabajamos con organizaciones </0> <1/> que confían en <3/> nuestro software. <5/>",
+    "FEATURES_TITLE": "Soluciones de <b> Debmedia </b> para personalizar puntos de interacción <br /> en oficinas gubernamentales"
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "REVIEW": {
+    "TITLE": "Más de 300 <br /> organizaciones <br /> <span> ya confían en </span> <br /> <span> Debmedia </span>"
+  },
+  "MAP": {
+    "CAPTION": "Debmedia lleva <b>más de 15 años</b> desarrollando software para gestionar la experiencia del cliente."
+  },
+  "PARTNER": {
+    "TITLE": "¿Quieres ser partner de Debmedia?",
+    "CAPTION": "Conoce cómo generar nuevos negocios a través de nuestro programa.",
+    "BUTTON": "Quiero ser partner"
+  },
+  "LEVEL": {
+    "TITLE": "Mejora la Customer Experience con <br /> la Tecnología de <b> Debmedia </b>",
+    "STEP_1": "Solicita <br /> una <b> demo </b>",
+    "STEP_2": "<b> Selecciona </b> <br /> los módulos",
+    "STEP_3": "<b> Configura </b> <br /> el sistema",
+    "STEP_4": "Atiende de <br /> <b> forma eficiente </b>",
+    "BUTTON": "$t(common:REQUEST_A_DEMO)"
+  },
+  "CONTACT": {
+    "TITLE": "¡Contáctate con nuestro equipo y <br /> mejora la experiencia de tus clientes!"
+  },
+  "POSTS": {
+    "BANKING": {
+      "TITLE": "Explora contenidos <br /> relacionados al <b> sector financiero </b>"
+    },
+    "HEALTH": {
+      "TITLE": "Explora contenidos <br /> relacionados al la industria health"
+    },
+    "GOVERNMENT": {
+      "TITLE": "Explora contenidos <br /> relacionados al sector gubernamental"
+    },
+    "RETAIL": {
+      "TITLE": "Explora contenidos relacionados al <br /> sector retail y de servicios"
+    },
+    "TELECOMMUNICATIONS": {
+      "TITLE": "$t(POSTS.RETAIL.TITLE)"
+    },
+    "UTILITIES": {
+      "TITLE": "$t(POSTS.RETAIL.TITLE)"
+    }
+  },
+  "FOOTER": {
+    "SOLUTIONS": "$t(common:SOLUTIONS)",
+    "QUEUE_MANAGEMENT": "$t(common:QUEUE_MANAGEMENT)",
+    "ONLINE_APPOINTMENTS": "$t(common:ONLINE_APPOINTMENTS)",
+    "VIRTUAL_QUEUE": "$t(common:VIRTUAL_QUEUE)",
+    "DIGITAL_SIGNAGE": "$t(common:DIGITAL_SIGNAGE)",
+    "VIRTUAL_ATTENTION": "$t(common:VIRTUAL_ATTENTION)",
+    "SURVEYS": "$t(common:SURVEYS)",
+    "PRE_SERVICE": "$t(common:PRE_SERVICE)",
+    "WHATSAPP_CHATBOT": "$t(common:WHATSAPP_CHATBOT)",
+    "CLIENTS": "$t(common:CLIENTS)",
+    "US": "$t(common:US)",
+    "PARTNERS": "$t(common:PARTNERS)",
+    "BLOG": "$t(common:BLOG)",
+    "QUALITY_AND_SECURITY_POLICY": "$t(common:QUALITY_AND_SECURITY_POLICY)",
+    "BANKING_AND_INSURANCE": "$t(common:BANKING_AND_INSURANCE)",
+    "HEALTH": "$t(common:HEALTH)",
+    "GOVERNMENT": "$t(common:GOVERNMENT)",
+    "UTILITIES_AND_CORPORATIONS": "$t(common:UTILITIES_AND_CORPORATIONS)",
+    "SERVICES_AND_RETAIL": "$t(common:SERVICES_AND_RETAIL)",
+    "TELECOMMUNICATIONS": "$t(common:TELECOMMUNICATIONS)",
+    "INDUSTRIES": "$t(common:INDUSTRIES)",
+    "COMPANY": "$t(common:COMPANY)",
+    "ENDORSED_BY": "$t(common:ENDORSED_BY)"
+  },
+  "SERVICES": {
+    "TITLE": "<b> Tecnología que mejora </b> <br /> la experiencia de tus clientes"
+  },
+  "SPECS_INDUS": {
+    "TITLE": {
+      "BANKING": "<b> Compite con entidades digitalizadas </b> <br /> de la Industria de la Banca y Finanzas.",
+      "HEALTH": "<b> Compite con entidades digitalizadas </b> <br /> de la Industria de la salud",
+      "GOVERNMENT": "<b> Escala los procesos en </b> <br /> Instituciones del Gobierno y ONGs",
+      "RETAIL": "<b> Escala los procesos en </b> <br /> empresas retail y de servicios.",
+      "TELECOMMUNICATIONS": "<b> Mejora la experiencia </b> <br /> y escala los procesos.",
+      "UTILITIES": "<b> Una solución moderna y escalable </b> <br /> para organizaciones del gobierno"
+    },
+    "CAPTION_1": {
+      "TITLE": "Integración <br /> Sencilla",
+      "SUBTITLE": "Integrable por API <br /> o iframe."
+    },
+    "CAPTION_2": {
+      "TITLE": "Métricas de <br /> performance",
+      "SUBTITLE": "Conoce el rendimiento de <br /> tus canales de atención."
+    },
+    "CAPTION_3": {
+      "TITLE": "Comunicación <br /> centralizada",
+      "SUBTITLE": "Envía el mensaje correcto <br /> a través de SMS, email, <br /> WhatsApp o pantallas."
+    }
+  },
+  "INDUSTRIES": {
+    "TITLE": "Organizaciones de múltiples industrias <br /> <b> gestionan la experiencia del cliente con Debmedia. </b>",
+    "CARDS": {
+      "BANKING": {
+        "TITLE": "Banca y Seguros",
+        "SUBTITLE": "Instituciones financieras, aseguradoras, cooperativas."
+      },
+      "HEALTH": {
+        "TITLE": "Salud",
+        "SUBTITLE": "Clínicas, hospitales, laboratorios, farmacias, prepagadas."
+      },
+      "GOVERNMENT": {
+        "TITLE": "Gobierno",
+        "SUBTITLE": "Instituciones públicas, municipios, ONGs"
+      },
+      "RETAIL": {
+        "TITLE": "Retail y servicios",
+        "SUBTITLE": "Tiendas retail, cajas de compensación, logística."
+      },
+      "TELECOMMUNICATIONS": {
+        "TITLE": "Telecomunicaciones",
+        "SUBTITLE": "Telefonía móvil, operadores de cable."
+      },
+      "UTILITIES": {
+        "TITLE": "Utilities",
+        "SUBTITLE": "Asociaciones, servicios públicos."
+      }
+    }
+  },
+  "CONTACT_PARTNERS": {
+    "TITLE": "¡Contáctate con nuestro equipo y <br /> mejora la experiencia de tus clientes!"
+  },
+  "NAVBAR": {
+    "HOME": "$t(common:HOME)",
+    "SOLUTIONS": {
+      "TITLE": "$t(common:SOLUTIONS)",
+      "VIRTUAL_ATTENTION": "$t(common:VIRTUAL_ATTENTION)",
+      "WHATSAPP_CHATBOT": "$t(common:WHATSAPP_CHATBOT)",
+      "VIRTUAL_QUEUE": "$t(common:VIRTUAL_QUEUE)",
+      "APPOINTMENTS": "$t(common:APPOINTMENTS)",
+      "ONLINE_APPOINTMENTS": "$t(common:ONLINE_APPOINTMENTS)",
+      "QUEUE_MANAGEMENT": "$t(common:QUEUE_MANAGEMENT)",
+      "DIGITAL_SIGNAGE": "$t(common:DIGITAL_SIGNAGE)",
+      "PRE_SERVICE": "$t(common:PRE_SERVICE)",
+      "SURVEYS": "$t(common:SURVEYS)"
+    },
+    "CLIENTS": "$t(common:CLIENTS)",
+    "US": "$t(common:US)",
+    "PARTNERS": "$t(common:PARTNERS)",
+    "RESOURCES": {
+      "TITLE": "$t(common:RESOURCES)",
+      "BLOG": "$t(common:BLOG)",
+      "SUCCESS_STORIES": "Casos de éxito",
+      "DOWNLOADABLE_RESOURCES": "Recursos descargables"
+    }
+  },
+  "THANKYOU": {
+    "MESSAGE": "Mientras tanto, <br /> <b> te invitamos </b> <br /> a explorar nuestra <br /> sección de recursos. <br /> <b> ¡Disfrútalos! </b>",
+    "BUTTON": "Ver recursos"
+  },
+  "LANGUAGE_SELECTOR": {
+    "MOBILE": {
+      "BUTTON": {
+        "SPANISH": "ES",
+        "ENGLISH": "EN",
+        "PORTUGUESE": "PT"
+      },
+      "DROPDOWN": {
+        "SPANISH": "ES",
+        "ENGLISH": "EN",
+        "PORTUGUESE": "PT"
+      }
+    },
+    "DESKTOP": {
+      "BUTTON": {
+        "SPANISH": "ES",
+        "ENGLISH": "EN",
+        "PORTUGUESE": "PT"
+      },
+      "DROPDOWN": {
+        "SPANISH": "ES - Español",
+        "ENGLISH": "EN - English",
+        "PORTUGUESE": "PT - Português"
+      }
+    }
+  },
+  "CELDAS": {
+    "CELL_1": {
+      "TITLE": "FILA VIRTUAL",
+      "SUBTITLE": "Permite a tus clientes hacer la fila desde su celular"
+    },
+    "CELL_2": {
+      "TITLE": "CITAS ONLINE",
+      "SUBTITLE": "Permite a tus clientes agendar citas de forma virtual."
+    },
+    "CELL_3": {
+      "TITLE": "ATENCIÓN VIRTUAL",
+      "SUBTITLE": "Tu equipo puede atender clientes de forma física y/o virtual."
+    },
+    "CELL_4": {
+      "TITLE": "ENCUESTAS",
+      "SUBTITLE": "Obtén feedback del cliente luego de ser atendido."
+    },
+    "CELL_5": {
+      "TITLE": "CARTELERÍA DIGITAL",
+      "SUBTITLE": "Maneja la información de tus pantallas de forma centralizada."
+    },
+    "CELL_6": {
+      "TITLE": "PRE - ATENDEDOR",
+      "SUBTITLE": "Ofrece el canal indicado desde una landing page o chatbot de whatsapp."
+    }
+  }
+}
