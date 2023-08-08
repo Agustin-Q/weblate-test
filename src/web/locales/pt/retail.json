@@ -1,0 +1,37 @@
+{
+  "HEADER": {
+    "TITLE": "<0> Melhore a experiência <1/>do cliente </0>dentro e fora das <2 /> sucursais"
+  },
+  "MARKET": {
+    "TITLE": "Os clientes de <b> <br /> hoje não <br /> se contentam mais com </b> qualquer coisa.",
+    "CAPTION_1": {
+      "TITLE": "Querem interagir",
+      "SUBTITLE": "quando, onde e como <br /> querem."
+    },
+    "CAPTION_2": {
+      "TITLE": "Precisam de respostas",
+      "SUBTITLE": "rápidas e eficazes."
+    },
+    "CAPTION_3": {
+      "TITLE": "Trocariam de marca",
+      "SUBTITLE": "para receber uma experiência mais consistente."
+    }
+  },
+  "SOLUTIONS": {
+    "TITLE": "<b> Dê a seus clientes </b> <br /> a atenção que eles merecem.",
+    "CAPTION_1": {
+      "TITLE": "Integre canais",
+      "SUBTITLE": "e ofereça um serviço omni channel."
+    },
+    "CAPTION_2": {
+      "TITLE": "Otimize os processos orientados por dados",
+      "SUBTITLE": "e agiliza o serviço de atendimento ao cliente"
+    },
+    "CAPTION_3": {
+      "TITLE": "Melhore sua experiência",
+      "SUBTITLE": "em cada ponto de contato."
+    },
+    "ORGANIZATION_TITLE": "<0> Empresas líderes de </0> <1 /> mercado, já gerenciam <3 /> a experiência <5 /> de seus clientes com Debmedia",
+    "SOLUTIONS_TITLE": "Soluções Debmedia <b> para </b> prestar um serviço omnichanel ao cliente"
+  }
+}

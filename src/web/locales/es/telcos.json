@@ -1,0 +1,37 @@
+{
+  "HEADER": {
+    "TITLE": "<b>Mejora la experiencia</b><b> de los clientes</b> dentro y fuera de las sucursales"
+  },
+  "MARKET": {
+    "TITLE": "Los clientes hoy <br /><b>no se</b><br /><b>conforman con cualquier cosa </b>",
+    "CAPTION_1": {
+      "TITLE": "Modelos de <br /> atención",
+      "SUBTITLE": "obsoletos"
+    },
+    "CAPTION_2": {
+      "TITLE": "Dificultad para dirigir",
+      "SUBTITLE": "un canal de interacción a <br />cada cliente"
+    },
+    "CAPTION_3": {
+      "TITLE": "Cambiarían de marca",
+      "SUBTITLE": "si consiguen una experiencia<br /> más consistente."
+    }
+  },
+  "SOLUTIONS": {
+    "TITLE": "<b>Adapta tu empresa </b> <br />a nuevos modelos",
+    "CAPTION_1": {
+      "TITLE": "Integra los canales de atención",
+      "SUBTITLE": "y ofrece una atención omnicanal."
+    },
+    "CAPTION_2": {
+      "TITLE": "Optimiza los procesos con datos",
+      "SUBTITLE": "y agiliza la atención."
+    },
+    "CAPTION_3": {
+      "TITLE": "Mejora su experiencia",
+      "SUBTITLE": "en cada punto y fidelízalos a tus servicios."
+    },
+    "ORGANIZATION_TITLE": "<0>Trabajamos con organizaciones </0> <1 /> que confían en <3 /> nuestro software. <5 />",
+    "SOLUTIONS_TITLE": "Soluciones de <b> Debmedia </b> para empresas de telecomunicaciones"
+  }
+}

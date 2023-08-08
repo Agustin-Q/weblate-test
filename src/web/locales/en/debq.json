@@ -1,0 +1,61 @@
+{
+  "HEADER": {
+    "TITLE": "Make the flow of attention in your offices more efficient",
+    "SUBTITLE": "Queue management <b> system </b>",
+    "CAPTION": "<b> Leading organizations </b> already manage their <br /> customer experience with Debmedia <b> </b>"
+  },
+  "MARKET": {
+    "TITLE": "Companies do not know how to optimize processes.",
+    "SUBTITLE": "As a result, they have",
+    "CAPTION_1": {
+      "TITLE": "Inefficient management",
+      "SUBTITLE": "with wasted resources"
+    },
+    "CAPTION_2": {
+      "TITLE": "Dissatisfied customers",
+      "SUBTITLE": "who ask for better service"
+    },
+    "CAPTION_3": {
+      "TITLE": "Lack of metrics",
+      "SUBTITLE": "to make better decisions."
+    }
+  },
+  "MODERN": {
+    "CAPTION_1": {
+      "TITLE": "Calling and <br /> prioritization algorithms",
+      "SUBTITLE": "By arrival, priority, <br /> service, customer or <br /> combination."
+    },
+    "CAPTION_2": {
+      "TITLE": "Artificial Intelligence <br /> and automation",
+      "SUBTITLE": "To establish dynamic <br /> service models."
+    },
+    "CAPTION_3": {
+      "TITLE": "Statistics and <br /> real-time monitoring",
+      "SUBTITLE": "of users, services, <br /> customers, among others."
+    },
+    "CAPTION_4": {
+      "TITLE": "Integrations with <br /> other systems",
+      "SUBTITLE": "Documented Api or pre-existing <br /> systems integrations."
+    },
+    "CAPTION_5": {
+      "TITLE": "Integration with <br /> BI tools",
+      "SUBTITLE": "To visualize data and make better decisions."
+    }
+  },
+  "STEPS": {
+    "TITLE": "<b> Automate and personalize the customer service model. </b>",
+    "SUBTITLE": "<b> Define the Customer Journey and </b> <br /> improve service.",
+    "CAPTION_1": {
+      "TITLE": "Make your resources <br /> more efficient",
+      "SUBTITLE": "To offer an agile service."
+    },
+    "CAPTION_2": {
+      "TITLE": "Offer a simple experience",
+      "SUBTITLE": "No friction and less waiting."
+    },
+    "CAPTION_3": {
+      "TITLE": "Measure key indicators",
+      "SUBTITLE": "To better manage your teams."
+    }
+  }
+}

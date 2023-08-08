@@ -1,0 +1,37 @@
+{
+  "HEADER": {
+    "TITLE": "<b> Improve customer experience </b> in and out of the offices"
+  },
+  "MARKET": {
+    "TITLE": "Today's customers won't <br /> <b> settle for just anything. </b>",
+    "CAPTION_1": {
+      "TITLE": "Obsolete customer <br />",
+      "SUBTITLE": "service models."
+    },
+    "CAPTION_2": {
+      "TITLE": "Difficulty in directing",
+      "SUBTITLE": "an interaction channel to each <br /> customer."
+    },
+    "CAPTION_3": {
+      "TITLE": "They would switch companies",
+      "SUBTITLE": "if they got a more consistent experience."
+    }
+  },
+  "SOLUTIONS": {
+    "TITLE": "<b> Adapt your company </b> <br /> to new models",
+    "CAPTION_1": {
+      "TITLE": "Integrate service channels",
+      "SUBTITLE": "and offer an omnichannel service."
+    },
+    "CAPTION_2": {
+      "TITLE": "Optimize processes with data",
+      "SUBTITLE": "and make serving more efficient."
+    },
+    "CAPTION_3": {
+      "TITLE": "Improve their experience",
+      "SUBTITLE": "at every point and build loyalty to your services."
+    },
+    "ORGANIZATION_TITLE": "<0> We work with </0> <1 /> organizations that rely <3 /> on our <5 /> software.",
+    "SOLUTIONS_TITLE": "<b>Debmedia</b> solutions for telecommunications companies"
+  }
+}

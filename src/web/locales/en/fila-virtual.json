@@ -1,0 +1,60 @@
+{
+  "HEADER": {
+    "TITLE": "Let your customers get in the queue from their smartphone",
+    "SUBTITLE": "Virtual Queue <b> Software </b>",
+    "CAPTION": "<b> Leading organizations </b> already manage their <br /> customer experience with Debmedia <b> </b>"
+  },
+  "MARKET": {
+    "TITLE": "Unnecessary waits inside the offices",
+    "SUBTITLE": "generate a bad experience.",
+    "CAPTION_1": {
+      "TITLE": "Crowds",
+      "SUBTITLE": "inside the facilities."
+    },
+    "CAPTION_2": {
+      "TITLE": "Customers with uncertainty",
+      "SUBTITLE": "about waiting time."
+    },
+    "CAPTION_3": {
+      "TITLE": "High churn rate",
+      "SUBTITLE": "of dissatisfied customers."
+    }
+  },
+  "MODERN": {
+    "TITLE": "<b> Speed up waiting times in </b> <br /> your offices.",
+    "CAPTION_1": {
+      "TITLE": "Integrable with chatbot",
+      "SUBTITLE": "The customer can enter and <br /> follow the queue from WhatsApp."
+    },
+    "CAPTION_2": {
+      "TITLE": "Integrable by API or Iframe",
+      "SUBTITLE": "To a pre-existing application or web."
+    },
+    "CAPTION_3": {
+      "TITLE": "Service configuration",
+      "SUBTITLE": "To select which customers get in the virtual queue."
+    },
+    "CAPTION_4": {
+      "TITLE": "Customized look and feel",
+      "SUBTITLE": "To maintain the identity of the organization."
+    }
+  },
+  "STEPS": {
+    "TITLE": "<b> Allow your customers to use <br /> their time </b> as they prefer.",
+    "CAPTION_1": {
+      "TITLE": "Manage the waiting <br /> rooms",
+      "SUBTITLE": "and reduce the unnecessary flow <br /> of customers."
+    },
+    "CAPTION_2": {
+      "TITLE": "Allow customers to follow <br /> the queue",
+      "SUBTITLE": "and receive a notification via SMS or WhatsApp."
+    },
+    "CAPTION_3": {
+      "TITLE": "Let them take <br /> advantage of their time",
+      "SUBTITLE": "and return just in time to be served."
+    }
+  },
+  "CHANNELS": {
+    "TITLE": "<b> Allow your customers to </b> <br /> use their time as <br /> <b> they prefer. </b>"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "HEADER": {
+    "TITLE": "Haz más eficiente y ordenado el flujo de atención en tus sucursales",
+    "SUBTITLE": "Sistema de <b> gestión de colas </b>",
+    "CAPTION": "<b> Organizaciones líderes </b> ya gestionan la <br /> experiencia de sus clientes con <b> Debmedia </b>"
+  },
+  "MARKET": {
+    "TITLE": "Empresas que desconocen cómo optimizar procesos.",
+    "SUBTITLE": "Como consecuencia tienen",
+    "CAPTION_1": {
+      "TITLE": "Gestión ineficiente",
+      "SUBTITLE": "Con recursos desaprovechados"
+    },
+    "CAPTION_2": {
+      "TITLE": "Clientes descontentos",
+      "SUBTITLE": "Que piden mejor atención"
+    },
+    "CAPTION_3": {
+      "TITLE": "Falta de métricas",
+      "SUBTITLE": "Para decidir mejor."
+    }
+  },
+  "MODERN": {
+    "CAPTION_1": {
+      "TITLE": "Algoritmos de <br /> llamado y priorización",
+      "SUBTITLE": "Por llegada, prioridad, <br /> trámite, cliente o <br /> combinación."
+    },
+    "CAPTION_2": {
+      "TITLE": "Inteligencia Artificial <br /> y automatización",
+      "SUBTITLE": "Para establecer modelos <br /> y de atención dinámicos."
+    },
+    "CAPTION_3": {
+      "TITLE": "Estadísticas y <br /> monitoreo en tiempo real",
+      "SUBTITLE": "Sobre usuarios, trámites, <br /> clientes, entre otros."
+    },
+    "CAPTION_4": {
+      "TITLE": "Integraciones con <br /> otros sistemas",
+      "SUBTITLE": "Api documentada o integraciones <br /> de sistemas preexistentes."
+    },
+    "CAPTION_5": {
+      "TITLE": "Integración con <br /> herramientas de BI",
+      "SUBTITLE": "Para visualizar datos y tomar mejores decisiones."
+    }
+  },
+  "STEPS": {
+    "TITLE": "<b> Automatiza y personaliza el modelo de atención </b>",
+    "SUBTITLE": "<b> Define el Customer Journey y </b> <br /> mejora la atención.",
+    "CAPTION_1": {
+      "TITLE": "Haz más eficientes <br /> tus recursos.",
+      "SUBTITLE": "Para ofrecer un servicio ágil."
+    },
+    "CAPTION_2": {
+      "TITLE": "Ofrece una experiencia simple.",
+      "SUBTITLE": "Sin roces y con menos espera."
+    },
+    "CAPTION_3": {
+      "TITLE": "Mide indicadores clave.",
+      "SUBTITLE": "Para gestionar mejor a tus equipos."
+    }
+  }
+}

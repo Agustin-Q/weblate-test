@@ -1,0 +1,35 @@
+{
+  "HEADER": {
+    "TITLE": "Make your customer service more efficient",
+    "SUBTITLE": "Software to <1> manage virtual and <1/> face-to-face customer service. </1>",
+    "CAPTION": "<0> Leading organizations </0> already manage their <2/> customer experience with Debmedia <4> </4>"
+  },
+  "MARKET": {
+    "TITLE": "The market has changed, and It is time to take action and join the Digital Transformation",
+    "CAPTION_1": "<strong> Unsatisfied customers </strong> <br /> due to inefficient customer service.",
+    "CAPTION_2": "<strong> Expensive </strong> <br /> customer service processes",
+    "CAPTION_3": "<strong> Disconnection </strong> <br /> between virtual and face-to-face channels."
+  },
+  "SOLUTIONS": {
+    "TITLE": "Get the most out of all <strong> your customer service </strong> channels.",
+    "CAPTION_1": "Improve customer service <br /> and experience",
+    "CAPTION_2": "Increase the productivity <br /> of your teams",
+    "CAPTION_3": "Stand out <br /> from the competition",
+    "FEATURES_TITLE": "<strong> Anticipate your customers' needs </strong> and optimize the <br /> customer service journey."
+  },
+  "MODERN": {
+    "TITLE": "A modern <br /> <strong> and scalable solution </strong>",
+    "CAPTION_1": {
+      "TITLE": "Easy Integration",
+      "PARAGRAPH": "Integrable via API or iframe."
+    },
+    "CAPTION_2": {
+      "TITLE": "Performance data",
+      "PARAGRAPH": "Measure the performance of your customer <br /> service channels."
+    },
+    "CAPTION_3": {
+      "TITLE": "Centralized communication with your customers",
+      "PARAGRAPH": "Send the right message via SMS, email, WhatsApp or office advertisements."
+    }
+  }
+}

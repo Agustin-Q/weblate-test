@@ -1,0 +1,50 @@
+{
+  "HEADER": {
+    "TITLE": "Digitize your customer service",
+    "CAPTION": "<b> Leading organizations </b> already manage their customer experience with <b>Debmedia</b>",
+    "SUBTITLE": "Software to serve <b> customers online by video-call</b>"
+  },
+  "MARKET": {
+    "TITLE": "<b> Optimize customer service through online </b> <br /> video conferencing.",
+    "CAPTION_1": "<strong> Value their time </strong> Offer agile and efficient <br /> customer service.",
+    "CAPTION_2": "<strong> Humanize customer service </strong> with personalized attention through <br /> specialized and close meetings.",
+    "CAPTION_3": "<strong> Differentiate yourself <br /> from the competition </strong> Get a technological <br /> advantage."
+  },
+  "FLOW": {
+    "TITLE": "<b> An omnichannel solution for different service <br /> models in your organization. </b>",
+    "CAPTION": "Your customers can schedule an appointment or get in the virtual queue from <b> your website to connect with a </b> representative by video-call.",
+    "BLOCK_1": {
+      "TITLE": "Use the video conferencing software also within the offices.",
+      "CAPTION": "<b> Your customers can connect to a video-call with a representative from a kiosk </b> and reduce the time they spend inside the offices."
+    },
+    "BLOCK_2": {
+      "TITLE": "Make the <br /> best use of your resources",
+      "CAPTION": "Allow your employees to serve customers from anywhere."
+    }
+  },
+  "SPEC": {
+    "TITLE": "How does Debmedia's video-call <br /> customer <b> service software work? </b>",
+    "MOBILE": {
+      "TITLE": "Different functionalities",
+      "SUBTITLE": "to optimize your service model"
+    },
+    "CAPTIONS": {
+      "0": {
+        "TITLE": "Multiple customer <br /> journeys",
+        "SUBTITLE": "Your customers can begin their journey on your web, App or WhatsApp."
+      },
+      "1": {
+        "TITLE": "Performance metrics",
+        "SUBTITLE": "Measure service data and <br /> the performance of your teams."
+      },
+      "2": {
+        "TITLE": "Easy <br /> integration",
+        "SUBTITLE": "A tool that can be integrated via API or Iframe."
+      },
+      "3": {
+        "TITLE": "Customers can",
+        "SUBTITLE": "connect spontaneously or scheduled."
+      }
+    }
+  }
+}

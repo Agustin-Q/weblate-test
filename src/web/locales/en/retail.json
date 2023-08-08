@@ -1,0 +1,37 @@
+{
+  "HEADER": {
+    "TITLE": "<0> Improve customer <1/> experience </0>in and out of the offices <2 />"
+  },
+  "MARKET": {
+    "TITLE": "Today's customers won't <b> <br /> settle for <br /> just anything. </b>",
+    "CAPTION_1": {
+      "TITLE": "They want to interact",
+      "SUBTITLE": "when, where, and how <br /> they like."
+    },
+    "CAPTION_2": {
+      "TITLE": "They need fast",
+      "SUBTITLE": "and effective responses."
+    },
+    "CAPTION_3": {
+      "TITLE": "They would switch companies",
+      "SUBTITLE": "if they got a more consistent experience."
+    }
+  },
+  "SOLUTIONS": {
+    "TITLE": "<b> Give your customers the </b> <br /> service they deserve.",
+    "CAPTION_1": {
+      "TITLE": "Integrate attention channels",
+      "SUBTITLE": "and deliver an omnichannel service."
+    },
+    "CAPTION_2": {
+      "TITLE": "Optimize processes with data",
+      "SUBTITLE": "and make serving more efficient."
+    },
+    "CAPTION_3": {
+      "TITLE": "Improve their experience",
+      "SUBTITLE": "at every point and build loyalty to your services."
+    },
+    "ORGANIZATION_TITLE": "<0> We work with </0> <1 /> organizations that rely <3 /> on our <5 /> software.",
+    "SOLUTIONS_TITLE": "Debmedia solutions <b> to </b> offer omnichannel customer service"
+  }
+}

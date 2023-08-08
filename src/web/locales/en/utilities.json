@@ -1,0 +1,37 @@
+{
+  "HEADER": {
+    "TITLE": "<b> Improve customer experience in and out of offices"
+  },
+  "MARKET": {
+    "TITLE": "Customers today do <br /> <b> not get </b> <br /> <b> satisfied with just anything. </b>",
+    "CAPTION_1": {
+      "TITLE": "They want to interact",
+      "SUBTITLE": "when, where, and how they like."
+    },
+    "CAPTION_2": {
+      "TITLE": "They do not tolerate",
+      "SUBTITLE": "inefficient processes"
+    },
+    "CAPTION_3": {
+      "TITLE": "They mostly avoid",
+      "SUBTITLE": "all manual processes"
+    }
+  },
+  "SOLUTIONS": {
+    "TITLE": "<b> Give your customers the </b> <br /> service they deserve.",
+    "CAPTION_1": {
+      "TITLE": "Integrate channels",
+      "SUBTITLE": "and offer an omnichannel service."
+    },
+    "CAPTION_2": {
+      "TITLE": "Provide a simple",
+      "SUBTITLE": "and fast experience."
+    },
+    "CAPTION_3": {
+      "TITLE": "Digitize processes",
+      "SUBTITLE": "and improve their experience."
+    },
+    "ORGANIZATION_TITLE": "<0> We work with </0> <1 /> organizations that rely <3 /> on our <5 /> software.",
+    "SOLUTIONS_TITLE": "Debmedia solutions <b> for </b> Utility companies"
+  }
+}

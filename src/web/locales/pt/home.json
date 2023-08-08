@@ -1,0 +1,35 @@
+{
+  "HEADER": {
+    "TITLE": "Transforme seus canais de atendimento virtual e presencial",
+    "SUBTITLE": "Software para <b>Gestão de atendimento eficiente </b>",
+    "CAPTION": "<0>Empresas líderes</0> de mercado já <2/>gerenciam a experiência de seus clientes <br/>com <4>Debmedia</4>"
+  },
+  "MARKET": {
+    "TITLE": "O mercado mudou e é necessário adaptar-se.",
+    "CAPTION_1": "<strong> Clientes insatisfeitos </strong> <br /> em razão de um atendimento ineficiente.",
+    "CAPTION_2": "<strong> Processos </strong> <br /> de atendimento ao cliente custosos",
+    "CAPTION_3": "<strong> Falta de conexão </strong> <br /> entre os canais digital e presencial."
+  },
+  "SOLUTIONS": {
+    "TITLE": "Aproveite ao máximo todos os seus <strong> canais de atendimento </strong> ao cliente.",
+    "CAPTION_1": "Melhore o atendimento <br /> e a experiência ao cliente",
+    "CAPTION_2": "Aumente a produtividade <br /> das suas equipes",
+    "CAPTION_3": "Diferencie-se da <br /> concorrência",
+    "FEATURES_TITLE": "<strong> Antecipe as necessidades dos </strong> seus clientes e <br /> otimize o seu fluxo de atendimento"
+  },
+  "MODERN": {
+    "TITLE": "Uma solução <br /> <strong> moderna e escalável </strong>",
+    "CAPTION_1": {
+      "TITLE": "Integração simples",
+      "PARAGRAPH": "via API ou iframe."
+    },
+    "CAPTION_2": {
+      "TITLE": "Métricas de performance",
+      "PARAGRAPH": "Conheça o desempenho dos seus canais <br /> de atendimento ao cliente."
+    },
+    "CAPTION_3": {
+      "TITLE": "Comunicação centralizada com seus clientes",
+      "PARAGRAPH": "Envie mensagem através de SMS, e-mail, WhatsApp ou telas"
+    }
+  }
+}

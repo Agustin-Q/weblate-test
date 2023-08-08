@@ -1,0 +1,37 @@
+{
+  "HEADER": {
+    "TITLE": "<0> Melhore a experiência <1/> do cliente dentro </0> e fora <2/> das sucursais."
+  },
+  "MARKET": {
+    "TITLE": "Os clientes bancários de hoje não se <1 /> <2> contentam mais <1/> com qualquer coisa. </2>",
+    "CAPTION_1": {
+      "TITLE": "Querem interagir",
+      "SUBTITLE": "quando, onde e <br /> como querem"
+    },
+    "CAPTION_2": {
+      "TITLE": "Precisam de respostas",
+      "SUBTITLE": "rápidas e eficazes."
+    },
+    "CAPTION_3": {
+      "TITLE": "Trocariam de banco",
+      "SUBTITLE": "para receber uma experiência mais consistente"
+    }
+  },
+  "SOLUTIONS": {
+    "TITLE": "<b> Dê a seus clientes a </b> <br /> atenção que eles merecem.",
+    "CAPTION_1": {
+      "TITLE": "Integre canais <br />",
+      "SUBTITLE": "e ofereça um serviço omnichannel."
+    },
+    "CAPTION_2": {
+      "TITLE": "Otimize os processos",
+      "SUBTITLE": "orientados por dados e agiliza o serviço de atendimento ao cliente"
+    },
+    "CAPTION_3": {
+      "TITLE": "Melhore sua experiência",
+      "SUBTITLE": "em cada ponto de contato."
+    },
+    "ORGANIZATIONS": "<b> Empresas líderes </b> de <br /> mercado, já gerenciam a <b> experiência </b> <br /> de seus clientes com Debmedia",
+    "SOLUTIONS": "Soluções Debmedia <b> para </b> personalizar cada ponto de <br /> interação <b> entre bancos e clientes. </b>"
+  }
+}

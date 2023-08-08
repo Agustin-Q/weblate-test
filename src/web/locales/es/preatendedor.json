@@ -1,0 +1,62 @@
+{
+  "HEADER": {
+    "TITLE": "Agiliza la atención desde WhatsApp o un portal web",
+    "CAPTION": "<b>Organizaciones líderes</b> ya gestionan la <br /> experiencia de sus clientes con <b> Debmedia</b>"
+  },
+  "FLOW": {
+    "TITLE": "<b>Implementa un portal de pre atención personalizable</b> que los guía a la elección de su trámite.",
+    "PILL_1": "<b>Configura</b> los botones",
+    "PILL_2": "<b>Diseña con el look and feel</b> de tu empresa",
+    "PILL_3": "Utiliza <b>imágenes</b>",
+    "PILL_4": "<b>Configura el recorrido</b> que deben atravesar tus clientes",
+    "PILL_5": "<b>Agrega descripciones</b> en cada botón para ser mas específico"
+  },
+  "MARKET": {
+    "TITLE": "La dificultad para dirigir a tus clientes <br /> al canal adecuado se traduce en",
+    "CAPTION_1": {
+      "TITLE": "Procesos humanos",
+      "SUBTITLE": "más costosos para tu organización"
+    },
+    "CAPTION_2": {
+      "TITLE": "Procesos de atención",
+      "SUBTITLE": "complejos para tus clientes"
+    },
+    "CAPTION_3": {
+      "TITLE": "Respuestas tardías",
+      "SUBTITLE": "a tus clientes"
+    }
+  },
+  "MODERN": {
+    "TITLE": "¿Qué puedes hacer con el preatendedor?",
+    "CAPTION_1": {
+      "TITLE": "<span>Incluir</span><br /> pop ups"
+    },
+    "CAPTION_2": {
+      "TITLE": "<span>Agregar</span><br />Formularios"
+    },
+    "CAPTION_3": {
+      "TITLE": "Integrar con",
+      "SUBTITLE": "la base de datos de los clientes o CRM para personalizar su viaje"
+    }
+  },
+  "STEPS": {
+    "TITLE": "<b>Direcciona a tus clientes </b> más rápido <br />al canal de atención indicado",
+    "CAPTION_1": {
+      "TITLE": "Automatiza los procesos",
+      "SUBTITLE": "y reduce costos."
+    },
+    "CAPTION_2": {
+      "TITLE": "Simplifica el viaje",
+      "SUBTITLE": "de tus clientes."
+    },
+    "CAPTION_3": {
+      "TITLE": "Mejora los tiempos",
+      "SUBTITLE": "de respuesta y agiliza <br /> la atención."
+    },
+    "PILL_1": "Permite a tus clientes <b>Obtener una cita online</b>",
+    "PILL_2": "Permite a tus clientes <b>seguir su turno desde WhatsApp</b>",
+    "PILL_3": "Envía <b>recordatorios</b>",
+    "PILL_4": "<b>Automatiza conversaciones</b> en respuesta de tus clientes.",
+    "CAPTION": "<b>Direcciona a tus clientes a través de WhatsApp </b> para que elijan el canal de atención más adecuado"
+  }
+}

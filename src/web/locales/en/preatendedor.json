@@ -1,0 +1,62 @@
+{
+  "HEADER": {
+    "TITLE": "Make serving from WhatsApp chatbot or a web portal more efficient",
+    "CAPTION": "<b> Leading organizations already manage their <br /> customer experience with Debmedia <b>"
+  },
+  "FLOW": {
+    "TITLE": "<b> Implement a customizable pre-service portal that guides clients</b> to the choice of their transaction.",
+    "PILL_1": "<b>Consfigure</b> the buttons",
+    "PILL_2": "Desing with <b>your company's look and feel</b>",
+    "PILL_3": "Use <b>images</b>",
+    "PILL_4": "<b>Configure the route/path</b> your customer should follow",
+    "PILL_5": "<b>Add descriptions</b> on each button to be more sprecific"
+  },
+  "MARKET": {
+    "TITLE": "The difficulty in directing your customers to <br /> the right channel translates into",
+    "CAPTION_1": {
+      "TITLE": "More expensive human processes",
+      "SUBTITLE": "for your organization"
+    },
+    "CAPTION_2": {
+      "TITLE": "Complex customer service processes",
+      "SUBTITLE": "for your customers"
+    },
+    "CAPTION_3": {
+      "TITLE": "Delayed responses",
+      "SUBTITLE": "to your customers"
+    }
+  },
+  "MODERN": {
+    "TITLE": "What can you do with the pre-service website",
+    "CAPTION_1": {
+      "TITLE": "<span> Include</span><br/> pop-ups"
+    },
+    "CAPTION_2": {
+      "TITLE": "Add<br/><span> Forms</span>"
+    },
+    "CAPTION_3": {
+      "TITLE": "Integrate with",
+      "SUBTITLE": "the customer database or CRM to personalize their journey"
+    }
+  },
+  "STEPS": {
+    "TITLE": "<b> Direct your customers faster </b> to the <br /> right customer service channel.",
+    "CAPTION_1": {
+      "TITLE": "Automate processes",
+      "SUBTITLE": "and reduce costs."
+    },
+    "CAPTION_2": {
+      "TITLE": "Simplify",
+      "SUBTITLE": "your customers' journey."
+    },
+    "CAPTION_3": {
+      "TITLE": "Improve response times",
+      "SUBTITLE": "and speed up customer <br /> service."
+    },
+    "PILL_1": "Allow your customers to <b> get an online appointment",
+    "PILL_2": "Allow your customers to <b> follow their tickets through WhatsApp",
+    "PILL_3": "Send <b> Reminders",
+    "PILL_4": "<b> Automate conversations in response to your customers",
+    "CAPTION": "<b> Direct your customers through WhatsApp chatbot so they </b> can choose the most appropriate customer service channel."
+  }
+}

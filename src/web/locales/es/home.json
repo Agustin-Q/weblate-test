@@ -1,0 +1,35 @@
+{
+  "HEADER": {
+    "TITLE": "Haz más eficientes tus canales de atención",
+    "SUBTITLE": "Software para <1> gestionar la atención <1/> al cliente virtual </1> y presencial.",
+    "CAPTION": "<0> Organizaciones líderes </0> ya gestionan la <2/> experiencia de sus clientes con <4> Debmedia </4>"
+  },
+  "MARKET": {
+    "TITLE": "El mercado cambió y es necesario adaptarse.",
+    "CAPTION_1": "<strong> Clientes insatisfechos </strong> <br /> por una atención ineficiente.",
+    "CAPTION_2": "<strong> Procesos </strong> <br /> de atención costosos",
+    "CAPTION_3": "<strong> Desconexión entre canales </strong> <br /> digitales y presenciales."
+  },
+  "SOLUTIONS": {
+    "TITLE": "Obtén lo máximo de todos tus <strong> canales de atención </strong>",
+    "CAPTION_1": "Mejora la atención <br /> y la experiencia",
+    "CAPTION_2": "Aumenta la productividad <br /> de tus equipos",
+    "CAPTION_3": "Diferénciate de <br /> la competencia",
+    "FEATURES_TITLE": "<strong> Anticípate a las necesidades </strong> y optimiza el <br /> flujo de atención de tus clientes"
+  },
+  "MODERN": {
+    "TITLE": "Una solución <br /> <strong> moderna y escalable </strong>",
+    "CAPTION_1": {
+      "TITLE": "Integración Sencilla",
+      "PARAGRAPH": "Integrable por API o iframe."
+    },
+    "CAPTION_2": {
+      "TITLE": "Métricas de performance",
+      "PARAGRAPH": "Conoce el rendimiento de tus canales <br /> de atención."
+    },
+    "CAPTION_3": {
+      "TITLE": "Comunicación centralizada con tus clientes",
+      "PARAGRAPH": "Envía el mensaje correcto a través de SMS, email, WhatsApp o pantallas."
+    }
+  }
+}

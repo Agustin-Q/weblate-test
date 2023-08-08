@@ -1,0 +1,61 @@
+{
+  "HEADER": {
+    "TITLE": "Torne o fluxo de atendimento ao cliente em suas sucursais mais eficiente e ordenado.",
+    "SUBTITLE": "Sistema de <b> gestão de filas </b> e atendimentos",
+    "CAPTION": "<b> Empresas líderes </b> de mercado, já <br /> gerenciam a experiência de seus <b> clientes </b> com Debmedia"
+  },
+  "MARKET": {
+    "TITLE": "Empresas que não sabem como otimizar os processos.",
+    "SUBTITLE": "Como conseqüência, têm",
+    "CAPTION_1": {
+      "TITLE": "Gestão ineficiente",
+      "SUBTITLE": "Com recursos desperdiçados"
+    },
+    "CAPTION_2": {
+      "TITLE": "Clientes insatisfeitos",
+      "SUBTITLE": "que exigem um melhor serviço"
+    },
+    "CAPTION_3": {
+      "TITLE": "Falta de métricas",
+      "SUBTITLE": "Para tomar melhores decisões."
+    }
+  },
+  "MODERN": {
+    "CAPTION_1": {
+      "TITLE": "Algoritmos de <br /> chamada e priorização",
+      "SUBTITLE": "Por ordem de <br /> chegada, prioridade, operação, <br /> cliente ou combinação."
+    },
+    "CAPTION_2": {
+      "TITLE": "Inteligência artificial <br /> e automação",
+      "SUBTITLE": "Para estabelecer modelos <br /> dinâmicos de atendimento."
+    },
+    "CAPTION_3": {
+      "TITLE": "Estatísticas e <br /> monitoramento em tempo real",
+      "SUBTITLE": "Sobre usuários, operação, <br /> clientes, entre outros."
+    },
+    "CAPTION_4": {
+      "TITLE": "Integrações com <br /> outros sistemas",
+      "SUBTITLE": "API documentada ou integração <br /> de sistemas preexistentes."
+    },
+    "CAPTION_5": {
+      "TITLE": "Integração com <br /> ferramentas de BI",
+      "SUBTITLE": "Para visualizar os dados e tomar melhores decisões."
+    }
+  },
+  "STEPS": {
+    "TITLE": "<b> Automatize e personalize o modelo de serviço </b> de atendimento ao cliente.",
+    "SUBTITLE": "<b> Define a Jornada do Cliente </b> <br /> e melhora o serviço de atendimento ao cliente.",
+    "CAPTION_1": {
+      "TITLE": "Torne seus recursos <br /> mais eficientes.",
+      "SUBTITLE": "Para oferecer um serviço ágil."
+    },
+    "CAPTION_2": {
+      "TITLE": "Ofereça uma experiência simples.",
+      "SUBTITLE": "Sem conflitos e com menos tempo de espera."
+    },
+    "CAPTION_3": {
+      "TITLE": "Monitora <br/> indicadores-chave",
+      "SUBTITLE": "Para gerenciar melhor sua equipe."
+    }
+  }
+}

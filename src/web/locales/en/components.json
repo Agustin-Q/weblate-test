@@ -1,0 +1,168 @@
+{
+  "REVIEW": {
+    "TITLE": "More than 300 <br /> organizations <br /> <span> already trust Debmedia. </span> <br /> <span> </span>"
+  },
+  "MAP": {
+    "CAPTION": "Debmedia has been developing software to manage the customer experience for <b>more than 15 years</b>."
+  },
+  "PARTNER": {
+    "TITLE": "Do you want to be a Debmedia partner?",
+    "CAPTION": "Learn how to generate new business through our program.",
+    "BUTTON": "I want to be a partner"
+  },
+  "LEVEL": {
+    "TITLE": "Improve your Customer Experience with <br /> Debmedia's Technology <b> </b>",
+    "STEP_1": "Request <br /> a <b> demo </b>",
+    "STEP_2": "<b> Select </b> <br /> the modules",
+    "STEP_3": "<b> Configure </b> <br /> the system",
+    "STEP_4": "Serve your <br /> <b> customers efficiently </b>",
+    "BUTTON": "$t(common:REQUEST_A_DEMO)"
+  },
+  "CONTACT": {
+    "TITLE": "Contact our team and improve <br /> your customers' experience!"
+  },
+  "POSTS": {
+    "TELECOMMUNICATIONS": {
+      "TITLE": "$t(POSTS.RETAIL.TITLE)"
+    },
+    "UTILITIES": {
+      "TITLE": "$t(POSTS.RETAIL.TITLE)"
+    }
+  },
+  "FOOTER": {
+    "SOLUTIONS": "$t(common:SOLUTIONS)",
+    "QUEUE_MANAGEMENT": "$t(common:QUEUE_MANAGEMENT)",
+    "ONLINE_APPOINTMENTS": "$t(common:ONLINE_APPOINTMENTS)",
+    "VIRTUAL_QUEUE": "$t(common:VIRTUAL_QUEUE)",
+    "DIGITAL_SIGNAGE": "$t(common:DIGITAL_SIGNAGE)",
+    "VIRTUAL_ATTENTION": "$t(common:VIRTUAL_ATTENTION)",
+    "SURVEYS": "$t(common:SURVEYS)",
+    "PRE_SERVICE": "$t(common:PRE_SERVICE)",
+    "WHATSAPP_CHATBOT": "$t(common:WHATSAPP_CHATBOT)",
+    "CLIENTS": "$t(common:CLIENTS)",
+    "US": "$t(common:US)",
+    "PARTNERS": "$t(common:PARTNERS)",
+    "BLOG": "$t(common:BLOG)",
+    "QUALITY_AND_SECURITY_POLICY": "$t(common:QUALITY_AND_SECURITY_POLICY)",
+    "BANKING_AND_INSURANCE": "$t(common:BANKING_AND_INSURANCE)",
+    "HEALTH": "$t(common:HEALTH)",
+    "GOVERNMENT": "$t(common:GOVERNMENT)",
+    "UTILITIES_AND_CORPORATIONS": "$t(common:UTILITIES_AND_CORPORATIONS)",
+    "SERVICES_AND_RETAIL": "$t(common:SERVICES_AND_RETAIL)",
+    "TELECOMMUNICATIONS": "$t(common:TELECOMMUNICATIONS)",
+    "INDUSTRIES": "$t(common:INDUSTRIES)",
+    "COMPANY": "$t(common:COMPANY)",
+    "ENDORSED_BY": "$t(common:ENDORSED_BY)"
+  },
+  "SERVICES": {
+    "TITLE": "<b> Technology that improves </b> <br /> your customers' experience"
+  },
+  "SPECS_INDUS": {
+    "TITLE": {
+      "BANKING": "<b> Compete with digitized entities </b> <br /> in the Banking, Financial Services and Fintechs Industry.",
+      "HEALTH": "<b> Improve patient experience within </b> <br /> care centers.",
+      "GOVERNMENT": "<b> Scale processes in government </b> <br /> institutions and NGOs.",
+      "RETAIL": "<b> Scale processes in retail </b> <br /> and service companies.",
+      "TELECOMMUNICATIONS": "<b> Improve the experience </b> <br /> and scale processes.",
+      "UTILITIES": "<b> A modern and scalable solution </b> <br /> for Utilities"
+    },
+    "CAPTION_1": {
+      "TITLE": "Easy <br /> Integration",
+      "SUBTITLE": "Integrable by API <br /> or iframe."
+    },
+    "CAPTION_2": {
+      "TITLE": "Performance metrics <br />",
+      "SUBTITLE": "Measure the performance of <br /> your customer service channels."
+    },
+    "CAPTION_3": {
+      "TITLE": "Centralized <br /> communication",
+      "SUBTITLE": "Send the right message <br /> via SMS, email,WhatsApp or office <br /> advertisements."
+    }
+  },
+  "INDUSTRIES": {
+    "TITLE": "We work with organizations <br /> <b> that rely on our software. </b>",
+    "CARDS": {
+      "BANKING": {
+        "TITLE": "Banking, Financial Services and Fintechs",
+        "SUBTITLE": "Financial institutions, insurance companies and cooperatives."
+      },
+      "HEALTH": {
+        "TITLE": "Healthcare",
+        "SUBTITLE": "Clinics, hospitals, laboratories, pharmacies."
+      },
+      "GOVERNMENT": {
+        "TITLE": "Government",
+        "SUBTITLE": "Public institutions, municipalities, ONGs."
+      },
+      "RETAIL": {
+        "TITLE": "Retail",
+        "SUBTITLE": "Retail stores, clearinghouses, logistics."
+      },
+      "TELECOMMUNICATIONS": {
+        "TITLE": "Telecommunications",
+        "SUBTITLE": "Mobile telephony, cable operators."
+      },
+      "UTILITIES": {
+        "TITLE": "Utilities",
+        "SUBTITLE": "Associations, public services."
+      }
+    }
+  },
+  "CONTACT_PARTNERS": {
+    "TITLE": "Contact our team and <br />improve your customers' experience!"
+  },
+  "NAVBAR": {
+    "HOME": "$t(common:HOME)",
+    "SOLUTIONS": {
+      "TITLE": "$t(common:SOLUTIONS)",
+      "VIRTUAL_ATTENTION": "$t(common:VIRTUAL_ATTENTION)",
+      "WHATSAPP_CHATBOT": "$t(common:WHATSAPP_CHATBOT)",
+      "VIRTUAL_QUEUE": "$t(common:VIRTUAL_QUEUE)",
+      "APPOINTMENTS": "$t(common:APPOINTMENTS)",
+      "ONLINE_APPOINTMENTS": "$t(common:ONLINE_APPOINTMENTS)",
+      "QUEUE_MANAGEMENT": "$t(common:QUEUE_MANAGEMENT)",
+      "DIGITAL_SIGNAGE": "$t(common:DIGITAL_SIGNAGE)",
+      "PRE_SERVICE": "$t(common:PRE_SERVICE)",
+      "SURVEYS": "$t(common:SURVEYS)"
+    },
+    "CLIENTS": "$t(common:CLIENTS)",
+    "US": "$t(common:US)",
+    "PARTNERS": "$t(common:PARTNERS)",
+    "RESOURCES": {
+      "TITLE": "$t(common:RESOURCES)",
+      "BLOG": "$t(common:BLOG)",
+      "SUCCESS_STORIES": "Success stories",
+      "DOWNLOADABLE_RESOURCES": "Downloadable resources"
+    }
+  },
+  "THANKYOU": {
+    "MESSAGE": "In the <br /> <b> meantime, we </b> <br /> invite you to <br /> explore our resources <br /> <b> section. </b> Enjoy them!",
+    "BUTTON": "See resources"
+  },
+  "CELDAS": {
+    "CELL_1": {
+      "TITLE": "VIRTUAL QUEUE",
+      "SUBTITLE": "Let your customers get in the queue from their smartphone"
+    },
+    "CELL_2": {
+      "TITLE": "ONLINE APPOINTMENTS",
+      "SUBTITLE": "Allow your customers to schedule appointments virtually"
+    },
+    "CELL_3": {
+      "TITLE": "VIDEO-CALL CUSTOMER SERVICE",
+      "SUBTITLE": "Your team can assist customers in-person and/or virtually"
+    },
+    "CELL_4": {
+      "TITLE": "CUSTOMER FEEDBACK",
+      "SUBTITLE": "Get feedback from the customer after being assisted"
+    },
+    "CELL_5": {
+      "TITLE": "DIGITAL SIGNAGE",
+      "SUBTITLE": "Manage your screen information in a centralized way"
+    },
+    "CELL_6": {
+      "TITLE": "PRE SERVICE WEBSITE",
+      "SUBTITLE": "Agilize o atendimento a partir do WhatsApp ou de um portal web"
+    }
+  }
+}

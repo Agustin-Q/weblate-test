@@ -1,0 +1,37 @@
+{
+  "HEADER": {
+    "TITLE": "<0> Improve patient experience within care centers."
+  },
+  "MARKET": {
+    "TITLE": "Today's patients no longer tolerate an inefficient care process.",
+    "CAPTION_1": {
+      "TITLE": "High costs",
+      "SUBTITLE": "in manual processes."
+    },
+    "CAPTION_2": {
+      "TITLE": "Frustrating experiences",
+      "SUBTITLE": "for patients."
+    },
+    "CAPTION_3": {
+      "TITLE": "Lack of knowledge",
+      "SUBTITLE": "of the professionals' performance."
+    }
+  },
+  "SOLUTIONS": {
+    "TITLE": "<b> Offer your patients the </b> <br /> care they deserve.",
+    "CAPTION_1": {
+      "TITLE": "Digitized processes",
+      "SUBTITLE": "that improve their experience."
+    },
+    "CAPTION_2": {
+      "TITLE": "Flows adapted",
+      "SUBTITLE": "to their needs."
+    },
+    "CAPTION_3": {
+      "TITLE": "Performance metrics",
+      "SUBTITLE": "to know the performance."
+    },
+    "ORGANIZATION_TITLE": "<0> Leading organizations rely on Debmedia's solutions. <5 />",
+    "SOLUTIONS_TITLE": "Debmedia's solutions for </b> clinics, laboratories, <br/> and pharmacies"
+  }
+}

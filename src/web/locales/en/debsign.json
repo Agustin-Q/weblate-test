@@ -1,0 +1,39 @@
+{
+  "HEADER": {
+    "TITLE": "Centralize the <br /> advertisements displayed <br /> at your offices <br />",
+    "SUBTITLE": "Digital Signage <b> Software </b>",
+    "CAPTION": "<b> Leading organizations </b> already manage their <br /> customer experience with Debmedia <b> </b>"
+  },
+  "MARKET": {
+    "TITLE": "Without the right tools",
+    "SUBTITLE": "you may not be communicating the right messages.",
+    "CAPTION_1": {
+      "TITLE": "Outdated messages",
+      "SUBTITLE": "in the offices."
+    },
+    "CAPTION_2": {
+      "TITLE": "Use of environmentally <br />",
+      "SUBTITLE": "harmful tools."
+    },
+    "CAPTION_3": {
+      "TITLE": "Outdated office image <br />",
+      "SUBTITLE": "that does not attract attention."
+    }
+  },
+  "STEPS": {
+    "TITLE": "<b> Modernize the way you communicate in your offices. </b>",
+    "CAPTION_1": {
+      "TITLE": "Customize your content <br /> in real time",
+      "SUBTITLE": "With messages adapted to <br /> the moment your organization is living."
+    },
+    "CAPTION_2": {
+      "TITLE": "Transform resources <br />",
+      "SUBTITLE": "Use planet-friendly tools."
+    },
+    "CAPTION_3": {
+      "TITLE": "Generate dynamic and <br /> attractive content for customers",
+      "SUBTITLE": "Gain visibility and influence purchasing decisions."
+    },
+    "SUBTITLE": "<b> Define the Customer Journey and </b> <br /> improve customer service."
+  }
+}

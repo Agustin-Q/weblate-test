@@ -1,0 +1,60 @@
+{
+  "HEADER": {
+    "TITLE": "Permite a tus clientes seguir su turno desde el celular",
+    "SUBTITLE": "Sistema de <b> fila virtual </b>",
+    "CAPTION": "<b> Organizaciones líderes </b> ya gestionan la <br /> experiencia de sus clientes con <b> Debmedia </b>"
+  },
+  "MARKET": {
+    "TITLE": "Esperas innecesarias dentro de las sucursales",
+    "SUBTITLE": "generan una mala experiencia",
+    "CAPTION_1": {
+      "TITLE": "Aglomeraciones",
+      "SUBTITLE": "dentro de las instalaciones."
+    },
+    "CAPTION_2": {
+      "TITLE": "Clientes con incertidumbre",
+      "SUBTITLE": "sobre el tiempo de espera."
+    },
+    "CAPTION_3": {
+      "TITLE": "Altas tasas de abandono",
+      "SUBTITLE": "de clientes insatisfechos"
+    }
+  },
+  "MODERN": {
+    "TITLE": "<b> Agiliza los tiempos de espera </b> <br /> dentro de tus sucursales",
+    "CAPTION_1": {
+      "TITLE": "Integrable con chatbot",
+      "SUBTITLE": "El cliente puede ingresar y <br /> seguir la fila desde WhatsApp."
+    },
+    "CAPTION_2": {
+      "TITLE": "Integrable por API o Iframe",
+      "SUBTITLE": "A una aplicación o web pre existente."
+    },
+    "CAPTION_3": {
+      "TITLE": "Configuración de trámites",
+      "SUBTITLE": "Para seleccionar a cuáles los clientes se pueden encolar a través de fila virtual."
+    },
+    "CAPTION_4": {
+      "TITLE": "Look and feel personalizado",
+      "SUBTITLE": "Para mantener la identidad de la organización"
+    }
+  },
+  "STEPS": {
+    "TITLE": "<b> Permite a tus clientes aprovechar <br /> el tiempo </b> como mejor prefieran.",
+    "CAPTION_1": {
+      "TITLE": "Controla la afluencia <br /> en salas de espera",
+      "SUBTITLE": "Y reduce el flujo innecesario <br /> de clientes."
+    },
+    "CAPTION_2": {
+      "TITLE": "Permite a los clientes <br /> seguir el turno",
+      "SUBTITLE": "y ser llamados a través de SMS o WhatsApp."
+    },
+    "CAPTION_3": {
+      "TITLE": "Deja que aprovechen <br /> su tiempo",
+      "SUBTITLE": "Y regresen justo a tiempo para ser atendidos."
+    }
+  },
+  "CHANNELS": {
+    "TITLE": "<b> Permite a tus clientes </b> <br /> tomar su turno desde <br /> <b> diferentes canales. </b>"
+  }
+}
