@@ -1,0 +1,15 @@
+name: HTTP Requests Workflow
+on:
+  push:
+    branches:
+      - 'release*'
+
+jobs:
+  http_requests:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v2
+
+      - name: Run HTTP requests script
+        run: ./create-weblate-component.sh
