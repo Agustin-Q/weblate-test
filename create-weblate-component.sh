@@ -12,6 +12,9 @@ if [ -n "$branch_name" ]; then
         json_data=$(cat weblate-component-template.json)
         # Replace the placeholder with the actual branch name
         json_data=${json_data//BRANCH_NAME/$branch_name}
+        component_slug=$(echo "$branch_name" | sed -e 's/[/]/_/g' -e 's/[.]/-/g')
+        echo "Component slug: $component_slug"
+        json_data=${json_data//COMPONENT_SLUG/$component_slug}
         # Make the second HTTP request
         second_response=$(curl --location "http://localhost/api/projects/test/components/" \
         --header 'Content-Type: application/json' \

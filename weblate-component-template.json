@@ -1,6 +1,6 @@
 {
     "name": "BRANCH_NAME",
-    "slug": "BRANCH_NAME",
+    "slug": "COMPONENT_SLUG",
     "source_language": {
         "code": "es",
         "name": "Spanish",
