@@ -1,5 +1,5 @@
 {
     "HELLO": "Welcome",
-    "WORLD": "World",
-    "QUEUE": "Transmitting"
+    "WORLD": "World Modified",
+    "QUEUE": "Queue"
 }
