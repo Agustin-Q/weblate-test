@@ -1,5 +1,5 @@
 {
-    "HELLO": "Welcome",
+    "HELLO": "Welcome!",
     "WORLD": "World Modified",
     "QUEUE": "Queue",
     "ERROR.MSG": "An error occurred looking for data."
