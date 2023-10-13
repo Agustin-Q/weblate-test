@@ -1,6 +1,6 @@
 #!/bin/bash
 
-weblate_url=http://localhost
+weblate_url=https://weblatexyz.duckdns.org
 project_slug="test"
 # Extract the branch name
 branch_name=$(echo $GITHUB_REF | sed -n 's/refs\/heads\///p')
