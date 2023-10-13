@@ -1,5 +1,6 @@
 {
     "HELLO": "Bienvenido",
     "WORLD": "Mundo Modificado",
-    "QUEUE": "Tramite"
+    "QUEUE": "Tramite",
+    "ERROR.MSG": "Ocurrió un error buscando datos."
 }
