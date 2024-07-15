@@ -2,12 +2,13 @@
 
 weblate_url=https://weblatexyz.duckdns.org
 project_slug="test"
+weblate_project_token=wlp_vQZINDvfC7ATKvZAwVfqQvyCmLKgpgFhpzR9
 # Extract the branch name
 branch_name=$(echo $GITHUB_REF | sed -n 's/refs\/heads\///p')
 echo "Branch name: $branch_name"
 if [ -n "$branch_name" ]; then
     # Revisar si el componente ya existe
-    component_exists=$(curl -X GET -I "$weblate_url/api/components/$project_slug/$branch_name/" --header 'Authorization: Token wlu_rensMNoF5IKETTAQnydrhi8ZXgMDQ5IBq4XG' -s -w '%{http_code}' -o /dev/null)
+    component_exists=$(curl -X GET -I "$weblate_url/api/components/$project_slug/$branch_name/" --header "Authorization: Token $weblate_project_token" -s -w '%{http_code}' -o /dev/null)
     echo $component_exists
     # si es 404 creamos el componente
     if [ "$component_exists" == "404" ]; then
@@ -21,7 +22,7 @@ if [ -n "$branch_name" ]; then
         # Crear el componente
         create_component_response=$(curl --location "$weblate_url/api/projects/$project_slug/components/" \
         --header 'Content-Type: application/json' \
-        --header 'Authorization: Token wlu_rensMNoF5IKETTAQnydrhi8ZXgMDQ5IBq4XG' \
+        --header "Authorization: Token $weblate_project_token" \
         --data-raw "$json_data")
     fi
 fi
