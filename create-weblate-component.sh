@@ -1,6 +1,6 @@
 #!/bin/bash
 
-weblate_url=https://weblatexyz.duckdns.org
+weblate_url=http://weblatexyz.duckdns.org
 project_slug="test"
 weblate_project_token=wlp_vQZINDvfC7ATKvZAwVfqQvyCmLKgpgFhpzR9
 # Extract the branch name
