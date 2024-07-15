@@ -4,5 +4,6 @@
     "QUEUE": "Tramite",
     "ERROR.MSG": "Ocurrió un error buscando datos.",
     "SUCCESS.MSG": "La operación se realizo con éxito.",
-    "TURN": "Turno"
+    "TURN": "Turno",
+    "STATISTICS": "Estadísticas"
 }
