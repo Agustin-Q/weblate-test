@@ -3,5 +3,6 @@
     "WORLD": "Mundo Modificado!",
     "QUEUE": "Tramite",
     "ERROR.MSG": "Ocurrió un error buscando datos.",
-    "SUCCESS.MSG": "La operación se realizo con éxito."
+    "SUCCESS.MSG": "La operación se realizo con éxito.",
+    "TURN": "Turno"
 }
