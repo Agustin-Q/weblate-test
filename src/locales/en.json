@@ -5,5 +5,6 @@
     "ERROR.MSG": "An error occurred looking for data.",
     "SUCCESS.MSG": "The operation was successfully carried out.",
     "TURN": "Turn",
-    "STATISTICS": "Statistics"
+    "STATISTICS": "Statistics",
+    "COMPANY_MONITOR": "Company monitor"
 }
