@@ -1,4 +1,10 @@
 {
-    "HELLO": "Bienvenido",
-    "WORLD": "Mundo"
+    "HELLO": "Bienvenidos!",
+    "WORLD": "Mundo Modificado!",
+    "QUEUE": "Tramite",
+    "ERROR.MSG": "Ocurrió un error buscando datos.",
+    "SUCCESS.MSG": "La operación se realizo con éxito.",
+    "TURN": "Turno",
+    "STATISTICS": "Estadísticas",
+    "COMPANY_MONITOR": "Monitor de compañía"
 }

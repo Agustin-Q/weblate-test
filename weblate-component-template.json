@@ -26,7 +26,7 @@
     "repo": "https://github.com/Agustin-Q/weblate-test",
    
     "branch": "BRANCH_NAME",
-    "push_branch": "BRANCH_NAME-translations",
+    "push_branch": "translations-BRANCH_NAME",
     "filemask": "src/locales/*.json",
     "screenshot_filemask": "",
     "template": "src/locales/es.json",
