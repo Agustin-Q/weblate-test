@@ -1,6 +1,6 @@
 {
     "HELLO": "Bem-vindo!",
-    "WORLD": "Mundo Modificado",
+    "WORLD": "Mundo Modificado!",
     "QUEUE": "Transmissão",
     "ERROR.MSG": "Um erro ocorreu à procura de dados.",
     "SUCCESS.MSG": "A operação foi realizada com sucesso."
